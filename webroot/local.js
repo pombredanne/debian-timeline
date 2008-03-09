@@ -1,61 +1,52 @@
 var tl;
-var bandInfos;
 function onLoad() {
-  var eventSource = new Timeline.DefaultEventSource();
-  bandInfos = [
-    Timeline.createBandInfo({
-        eventSource:    eventSource,
-        date:           "Jan 1 2008 00:00:00 GMT",
-        width:          "70%", 
-        intervalUnit:   Timeline.DateTime.MONTH, 
-        intervalPixels: 100
-    }),
-    Timeline.createBandInfo({
-        eventSource:    eventSource,
-        date:           "Jan 1 2008 00:00:00 GMT",
-        width:          "30%", 
-        intervalUnit:   Timeline.DateTime.YEAR, 
-        intervalPixels: 200,
-	overview:       true
-    })
-  ];
-  bandInfos[1].syncWith = 0;
-  bandInfos[1].highlight = true;
-
-
-	var releases = [
-		["buzz", "June 17 1996"],
-		["rex", "December 12 1996"],
-		["bo", "June 5 1997"],
-		["hamm", "July 24 1998"],
-		["slink", "March 9 1999"],
-		["potato", "August 15 2000"],
-		["woody", "July 19 2002"],
-		["sarge", "June 6 2005"],
-		["etch", "April 8 2007"],
-		["lenny", "December 1 2008"],
-	];
-
-	var release_decorators = []
-	for (var i = 0; i < releases.length - 1; i++) {
-		release_decorators.push(new Timeline.SpanHighlightDecorator({
-			startDate:  releases[i][1] + " 00:00:00 GMT+000",
-			endDate:    releases[i + 1][1] + " 00:00:00 GMT+0000",
-			color:      "#FFC080",
-			opacity:    (i % 2) ? 20 : 0,
-			startLabel: releases[i][0],
-			endLabel:   "",
-			theme:      theme
-		}));
-	}
-
+	
 	var theme = Timeline.ClassicTheme.create();
-	for (var i = 0; i < bandInfos.length; i++) {
-		bandInfos[i].decorators = release_decorators;
-	}
+	theme.event.track.gap = 15.0;
+	theme.event.tape.height = 3.0;
+	theme.event.instant.icon = 'img/debian_sm.png';
+	theme.event.duration.color = '#FF6666';
+
+	var events = new Timeline.DefaultEventSource();
+	var releases = new Timeline.DefaultEventSource();
+	var updates = new Timeline.DefaultEventSource();
+
+	var date = '01 Jan 2008';
+	var bandInfos = [
+		Timeline.createBandInfo({
+			eventSource:    events,
+			width:          "55%", 
+			intervalUnit:   Timeline.DateTime.MONTH, 
+			intervalPixels: 100,
+			date:		date,
+			theme:		theme
+		}),
+		Timeline.createBandInfo({
+			eventSource:    releases,
+			width:          "10%", 
+			intervalUnit:   Timeline.DateTime.YEAR, 
+			intervalPixels: 500,
+			date:		date,
+			theme:		theme
+		}),
+		Timeline.createBandInfo({
+			eventSource:    updates,
+			width:          "45%", 
+			intervalUnit:   Timeline.DateTime.YEAR, 
+			intervalPixels: 500,
+			date:		date,
+			theme:		theme
+		})
+	];
+	bandInfos[1].highlight = true;
+	bandInfos[1].syncWith = 0;
+	bandInfos[2].highlight = true;
+	bandInfos[2].syncWith = 0;
 
 	tl = Timeline.create(document.getElementById("the-timeline"), bandInfos);
-	Timeline.loadXML("data.xml", function(xml, url) { eventSource.loadXML(xml, url); });
+	Timeline.loadXML("events.xml", function(xml, url) { events.loadXML(xml, url); });
+	Timeline.loadXML("releases.xml", function(xml, url) { releases.loadXML(xml, url); });
+	Timeline.loadXML("updates.xml", function(xml, url) { updates.loadXML(xml, url); });
 }
 
 var resizeTimerID = null;
