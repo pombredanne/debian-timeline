@@ -45,7 +45,7 @@ function onLoad() {
 			intervalPixels: 70,
 			date:		date,
 			theme:		theme,
-			overview:	true,
+			overview:	true
 		})
 	];
 	bandInfos[1].highlight = true;
