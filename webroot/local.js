@@ -31,8 +31,9 @@ function onLoad() {
 		["slink", "March 9 1999"],
 		["potato", "August 15 2000"],
 		["woody", "July 19 2002"],
-		["sarge", "June 6 2005	"],
+		["sarge", "June 6 2005"],
 		["etch", "April 8 2007"],
+		["lenny", "December 1 2008"],
 	];
 
 	var release_decorators = []
@@ -41,16 +42,16 @@ function onLoad() {
 			startDate:  releases[i][1] + " 00:00:00 GMT+000",
 			endDate:    releases[i + 1][1] + " 00:00:00 GMT+0000",
 			color:      "#FFC080",
-			opacity:    0,
-			startLabel: "",
-			endLabel:   releases[i + 1][0] + " released",
+			opacity:    (i % 2) ? 20 : 0,
+			startLabel: releases[i][0],
+			endLabel:   "",
 			theme:      theme
 		}));
 	}
 
 	var theme = Timeline.ClassicTheme.create();
 	for (var i = 0; i < bandInfos.length; i++) {
-	//	bandInfos[i].decorators = release_decorators;
+		bandInfos[i].decorators = release_decorators;
 	}
 
 	tl = Timeline.create(document.getElementById("the-timeline"), bandInfos);
