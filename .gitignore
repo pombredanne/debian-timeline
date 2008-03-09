@@ -1,2 +1,2 @@
-webroot/data.xml
+webroot/*.xml
 webroot/timeline
