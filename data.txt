@@ -1,0 +1,21 @@
+
+# Releases
+Jun 17 1996		Debian GNU/Linux 1.1 ("Buzz") released
+Dec 12 1996		Debian GNU/Linux 1.2 ("Rex") released
+Jun 05 1997		Debian GNU/Linux 1.3 ("Bo") released
+Jul 24 1998		Debian GNU/Linux 2.0 ("Hamm") released
+Mar 09 1999		Debian GNU/Linux 2.1 ("Slink") released
+Aug 15 2000		Debian GNU/Linux 2.2 ("Potato") released
+Jul 19 2002		Debian GNU/Linux 3.0 ("Woody") released
+Jun 06 2005		Debian GNU/Linux 3.1 ("Sarge") released
+Feb 18 2007		Debian GNU/Linux 3.1 ("Sarge") updated
+Apr 07 2007		Debian GNU/Linux 3.1 ("Sarge") updated
+Apr 08 2007		Debian GNU/Linux 4.0 ("Etch") released
+Aug 17 2007		Debian GNU/Linux 4.0 ("Etch") updated (r1)
+Dec 27 2007		Debian GNU/Linux 3.1 ("Sarge") updated (r7)
+Feb 27 2007		Debian GNU/Linux 4.0 ("Etch") updated (r2)
+Feb 17 2008		Debian GNU/Linux 4.0 ("Etch") updated (r3)
+
+
+# Security
+Apr 01 2008		Security dropped for Debian 3.1 ("Sarge")
