@@ -1,14 +1,16 @@
 
-webroot/data.xml: data.txt
+webroot/%.xml: data/%.txt
 	awk -F'\t' ' \
 		BEGIN { print "<data>" } \
 		/^[^#]/ { printf "<event start=\"" $$1 "\" "; \
-			if ($$2) { printf "end=\"" $$2 "\" "; } \
+			if ($$2) { printf "end=\"" $$2 "\" isDuration=\"true\" "; } \
 			gsub(/\"/, "\&quot;", $$3); \
-			print "title=\"" $$3 "\"/>" } \
-		END { print "</data>" }' data.txt > webroot/data.xml
+			printf "title=\"" $$3 "\">"; \
+			if ($$4) { printf "&lt;a href=\"" $$4 "\"&gt;Source&lt;/a&gt;"; } \
+			print "</event>"; } \
+		END { print "</data>" }' $< > $@ 
 
-all: webroot/data.xml
+all: webroot/events.xml webroot/releases.xml webroot/updates.xml
 
 libs:
 	rm -rf webroot/timeline
