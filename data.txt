@@ -1,21 +1,121 @@
-
 # Releases
-Jun 17 1996		Debian GNU/Linux 1.1 ("Buzz") released
-Dec 12 1996		Debian GNU/Linux 1.2 ("Rex") released
-Jun 05 1997		Debian GNU/Linux 1.3 ("Bo") released
+Oct 26 1995		Debian GNU/Linux 0.93 updated (r6)	http://lists.debian.org/debian-announce/1995/msg00007.html
+Jun 17 1996		Debian GNU/Linux 1.1 ("Buzz") released	http://lists.debian.org/debian-announce/1996/msg00021.html
+Dec 12 1996		Debian GNU/Linux 1.2 ("Rex") released	http://lists.debian.org/debian-announce/1996/msg00026.html
+Jun 05 1997		Debian GNU/Linux 1.3 ("Bo") released	http://lists.debian.org/debian-announce/1997/msg00013.html
+Jul 08 1997		Debian GNU/Linux 1.3 ("Bo") updated (r1)	http://lists.debian.org/debian-announce/1997/msg00018.html
 Jul 24 1998		Debian GNU/Linux 2.0 ("Hamm") released
+Feb 17 1999		Debian GNU/Linux 2.0 ("Hamm") updated (r5)	http://lists.debian.org/debian-announce/1999/msg00001.html
 Mar 09 1999		Debian GNU/Linux 2.1 ("Slink") released
+Dec 15 1999		Debian GNU/Linux 2.1 ("Slink") updated (r4)	http://lists.debian.org/debian-announce/1999/msg00014.html
+Feb 16 2000		Debian GNU/Linux 2.1 ("Slink") updated (r5)	http://lists.debian.org/debian-announce/2000/msg00004.html
 Aug 15 2000		Debian GNU/Linux 2.2 ("Potato") released
+Nov 14 2000		Debian GNU/Linux 2.2 ("Potato") updated (r1)	http://lists.debian.org/debian-announce/2000/msg00013.html
+Dec 05 2000		Debian GNU/Linux 2.2 ("Potato") updated (r2)	http://lists.debian.org/debian-announce/2000/msg00014.html
+Apr 17 2001		Debian GNU/Linux 2.2 ("Potato") updated (r3)	http://lists.debian.org/debian-announce/2001/msg00002.html
+Nov 05 2001		Debian GNU/Linux 2.2 ("Potato") updated (r4)	http://lists.debian.org/debian-announce/2001/msg00003.html
+Jan 10 2002		Debian GNU/Linux 2.2 ("Potato") updated (r5)	http://lists.debian.org/debian-announce/2002/msg00000.html
+Apr 03 2002		Debian GNU/Linux 2.2 ("Potato") updated (r6)	http://lists.debian.org/debian-announce/2002/msg00002.html
+Jul 13 2002		Debian GNU/Linux 2.2 ("Potato") updated (r7)	http://lists.debian.org/debian-announce/2002/msg00003.html
 Jul 19 2002		Debian GNU/Linux 3.0 ("Woody") released
-Jun 06 2005		Debian GNU/Linux 3.1 ("Sarge") released
-Feb 18 2007		Debian GNU/Linux 3.1 ("Sarge") updated
-Apr 07 2007		Debian GNU/Linux 3.1 ("Sarge") updated
-Apr 08 2007		Debian GNU/Linux 4.0 ("Etch") released
-Aug 17 2007		Debian GNU/Linux 4.0 ("Etch") updated (r1)
-Dec 27 2007		Debian GNU/Linux 3.1 ("Sarge") updated (r7)
-Feb 27 2007		Debian GNU/Linux 4.0 ("Etch") updated (r2)
-Feb 17 2008		Debian GNU/Linux 4.0 ("Etch") updated (r3)
-
+Dec 16 2002		Debian GNU/Linux 3.0 ("Woody") updated (r1)	http://lists.debian.org/debian-announce/2002/msg00005.html
+Nov 21 2003		Debian GNU/Linux 3.0 ("Woody") updated (r2)	http://lists.debian.org/debian-announce/2003/msg00002.html
+Oct 26 2004		Debian GNU/Linux 3.0 ("Woody") updated (r3)	http://lists.debian.org/debian-announce/2004/msg00000.html
+Jan 01 2005		Debian GNU/Linux 3.0 ("Woody") updated (r4)	http://lists.debian.org/debian-announce/2005/msg00000.html
+Apr 16 2005		Debian GNU/Linux 3.0 ("Woody") updated (r5)	http://lists.debian.org/debian-announce/2005/msg00001.html
+Jun 02 2005		Debian GNU/Linux 3.0 ("Woody") updated (r6)	http://lists.debian.org/debian-announce/2005/msg00002.html
+Jun 06 2005		Debian GNU/Linux 3.1 ("Sarge") released		http://lists.debian.org/debian-announce/2005/msg00003.html
+Dec 20 2005		Debian GNU/Linux 3.1 ("Sarge") updated (r1)	http://lists.debian.org/debian-announce/2005/msg00005.html
+Apr 19 2006		Debian GNU/Linux 3.1 ("Sarge") updated (r2)	http://lists.debian.org/debian-announce/2006/msg00001.html
+Sep 01 2006		Debian GNU/Linux 3.1 ("Sarge") updated (r3)	http://lists.debian.org/debian-announce/2006/msg00004.html
+Nov 06 2006		Debian GNU/Linux 3.1 ("Sarge") updated (r4)	http://lists.debian.org/debian-announce/2006/msg00005.html
+Feb 18 2007		Debian GNU/Linux 3.1 ("Sarge") updated (r5)	http://lists.debian.org/debian-announce/2007/msg00000.html
+Apr 07 2007		Debian GNU/Linux 3.1 ("Sarge") updated (r6)	http://lists.debian.org/debian-announce/2007/msg00001.html
+Apr 08 2007		Debian GNU/Linux 4.0 ("Etch") released	http://lists.debian.org/debian-announce/2007/msg00002.html
+Aug 17 2007		Debian GNU/Linux 4.0 ("Etch") updated (r1)	http://lists.debian.org/debian-announce/2007/msg00003.html
+Dec 27 2007		Debian GNU/Linux 4.0 ("Etch") updated (r2)	http://lists.debian.org/debian-announce/2007/msg00004.html
+Dec 27 2007		Debian GNU/Linux 3.1 ("Sarge") updated (r7)	http://lists.debian.org/debian-announce/2007/msg00005.html
+Feb 17 2008		Debian GNU/Linux 4.0 ("Etch") updated (r3)	http://lists.debian.org/debian-announce/2008/msg00000.html
 
 # Security
-Apr 01 2008		Security dropped for Debian 3.1 ("Sarge")
+Jul 08 2005		Security support for Sarge "working again"	http://lists.debian.org/debian-announce/2005/msg00004.html
+Jun 30 2006		Security dropped for Debian 3.0 ("Woody")
+Mar 31 2008		Security dropped for Debian 3.1 ("Sarge")
+
+# Architectures
+Jul 18 2007		sparc32 architecture retired	http://lists.debian.org/debian-devel-announce/2007/07/msg00006.html
+
+# Bug squashing parties
+Aug 11 2006	Aug 13 2006	Bug squashing party (Skolelinux Testcenter, Gütersloh, Germany)	http://lists.debian.org/debian-announce/2006/msg00003.html
+Sep 08 2006	Sep 10 2006	Bug squashing party (Don Bosco Studentenheim, Vienna, Austria)	http://lists.debian.org/debian-announce/2006/msg00003.html
+Oct 06 2006	Oct 08 2006	Bug squashing party (Espace Autogéré des Tanneries, Dijon, France)	http://lists.debian.org/debian-announce/2006/msg00003.html
+
+# Servers, etc.
+Nov 19 2003	Nov 21 2003	klecker.debian.org compromised	http://lists.debian.org/debian-announce/2003/msg00003.html
+
+# Special events
+Aug 16 1993		Debian founded	http://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcdcc6
+Dec 11 1995		Broken "Debian 1.0" released
+Aug 16 1998		5th Anniversary of Debian
+Jul 25 2000		Upcoming "Potato" release dedicated to Joel 'Espy' Klecker
+Aug 16 2003		10th Anniversary of Debian
+
+# Other projects
+Apr 30 1996		FSF sponsorship of Debian	http://lists.debian.org/debian-announce/1996/msg00008.html
+Jun 02 1999		Non-Profit status approved for SPI	http://lists.debian.org/debian-announce/1999/msg00009.html
+Nov 21 2000		Debian joins Gnome Foundation Advisory Board	http://lists.debian.org/debian-announce/2000/msg00013.html
+Feb 07 2000		Debian wins "Most Deserving of $2000" award	http://slashdot.org/article.pl?sid=00/02/06/1950248&mode=nocomment
+Mar 01 2002		First Linspire release
+Jan 19 2003		First Knoppix release
+Oct 20 2004		First Ubuntu release ("Warty")	https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html
+
+# Changes to software/services
+Apr 11 1997		"Deity" (now "apt") project started	http://lists.debian.org/debian-user/1997/04/msg00786.html
+Mar 23 1998		Deity renamed to "apt"	http://lists.debian.org/deity/1998/03/msg00114.html
+Dec 23 2003		Package signing added to apt	http://bugs.debian.org/203741
+Jul 18 2005		BTS version tracking implemented	http://lists.debian.org/debian-devel-announce/2005/07/msg00010.html
+Mar 22 2006		Debmake deprecated	http://lists.debian.org/debian-devel-announce/2006/03/msg00019.html
+Oct 01 2007		Installation of "Recommends:" by default	http://lists.debian.org/debian-devel-announce/2007/08/msg00000.html
+Sep 02 2007		packages.debian.org updated	http://lists.debian.org/debian-devel-announce/2007/09/msg00001.html
+Nov 17 2007		Debian Maintainers opens	http://lists.debian.org/debian-devel-announce/2007/11/msg00004.html
+
+# Conferences
+Jul 05 2000	Jul 08 2000	First Debconf (0), Bordeaux, France	http://debconf0.debconf.org/
+Jul 02 2001	Jul 05 2001	DebConf1, Bordeaux, France	http://debconf1.debconf.org/
+Jul 12 2003	Jul 17 2003	DebConf3, Oslo, Norway	http://debconf3.debconf.org/
+Jul 18 2003	Jul 20 2003	DebCamp, Oslo, Norway	http://debconf3.debconf.org/
+May 26 2004	Jun 02 2004	DebConf4, Porto Alegre, Brazil	http://debconf4.debconf.org/
+Jul 10 2005	Jul 17 2005	DebConf5, Helsinki, Finland	http://debconf5.debconf.org/
+May 14 2006	May 22 2006	DebConf6, Oaxtepec, Mexico	http://debconf6.debconf.org/
+Jun 17 2007	Jun 23 2007	DebConf7, Edinburgh, Scotland	https://debconf7.debconf.org/
+Nov 21 2007	Nov 23 2007	MiniDebConf Venezuela 2007	http://lists.debian.org/debian-devel-announce/2007/11/msg00003.html
+Jan 28 2008	Feb 02 2008	Debian Miniconf 7 at linux.conf.au	http://lists.debian.org/debian-devel-announce/2007/12/msg00008.html
+Feb 22 2008	Feb 24 2008	FOSDEM 2008
+
+# Voting / DPL
+Dec 23 1998	Feb 03 1999	DPL 1999 elections	http://www.debian.org/vote/1999/vote_0001
+Feb 03 1999		Wichert Akkerma elected DPL	http://www.debian.org/vote/1999/vote_0001
+May 03 1999		'Swirl' voted as Debian logo	http://www.debian.org/vote/1999/vote_0004
+Jan 31 2000	Mar 16 2000	DPL 2000 elections	http://www.debian.org/vote/2000/vote_0007
+Mar 16 2000		Wichert Akkerman relected as DPL	http://www.debian.org/vote/2000/vote_0007
+Jan 24 2001	Mar 28 2001	DPL 2001 elections	http://www.debian.org/vote/2001/vote_0001
+Mar 28 2001		Ben Collins elected DPL	http://www.debian.org/vote/2001/vote_0001
+Feb 06 2002	Apr 16 2002	DPL 2002 elections	http://www.debian.org/vote/2002/vote_0001
+Apr 16 2002		Bdale Garbee elected as DPL	http://www.debian.org/vote/2002/vote_0001
+Jan 24 2003	Mar 30 2003	DPL 2003 elections	http://www.debian.org/vote/2003/vote_0001
+Mar 30 2003		Martin Michlmayr elected DPL	http://www.debian.org/vote/2003/vote_0001
+Feb 07 2004	Feb 28 2004	DPL 2004 elections	http://www.debian.org/vote/2004/vote_001
+Feb 28 2004		Martin Michlmayr relected DPL	http://www.debian.org/vote/2004/vote_001
+Mar 21 2004		Non-free support re-affirmed	http://www.debian.org/vote/2004/vote_002
+Feb 07 2005	Apr 11 2005	DPL 2005 elections	http://www.debian.org/vote/2005/vote_001
+Apr 11 2005		Branden Robinson elected DPL	http://www.debian.org/vote/2005/vote_001
+Mar 12 2006		GFDL texts with invariant sections considered free	http://www.debian.org/vote/2006/vote_001
+Feb 05 2006	Apr 09 2006	DPL 2006 elections	http://www.debian.org/vote/2006/vote_002
+Apr 09 2006		Anthony Towns elected DPL	http://www.debian.org/vote/2006/vote_002
+Oct 15 2006		Project leader not recalled by vote	http://www.debian.org/vote/2006/vote_005
+Oct 15 2006		"Re-affirm DPL, wish success to unofficial Dunc Tank" vote passed	http://www.debian.org/vote/2006/vote_006
+Oct 15 2006		"Release Etch with kernel firmware issues" vote passed	http://www.debian.org/vote/2006/vote_007
+Feb 04 2007	Apr 08 2007	DPL 2007 elections	http://www.debian.org/vote/2007/vote_001
+Apr 08 2007		Sam Hocevar elected DPL	http://www.debian.org/vote/2007/vote_001
+Aug 05 2007		Debian Maintainers approved by vote	http://www.debian.org/vote/2007/vote_003
+Mar 02 2008	Apr 13 2008	DPL 2008 elections	http://www.debian.org/vote/2008/vote_001
