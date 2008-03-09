@@ -1,5 +1,5 @@
 
-webroot/%.xml: data/%.txt
+data/%.xml: data/%.txt
 	awk -F'\t' ' \
 		BEGIN { print "<data>" } \
 		/^[^#]/ { printf "<event start=\"" $$1 "\" "; \
@@ -10,9 +10,13 @@ webroot/%.xml: data/%.txt
 			print "</event>"; } \
 		END { print "</data>" }' $< > $@ 
 
-all: webroot/events.xml webroot/releases.xml webroot/updates.xml
+all: data/events.xml data/releases.xml data/updates.xml
+
+clean:
+	rm -rf data/*.xml
 
 libs:
-	rm -rf webroot/timeline
-	svn co http://simile.mit.edu/repository/timeline/trunk/src/webapp/api/ webroot/timeline
-	find webroot/timeline -name ".svn" -type d -print0 | xargs -0 rm -rf
+	rm -rf support/timeline support/simile-ajax
+	svn co http://simile.mit.edu/repository/timeline/trunk/src/webapp/api/ support/timeline
+	svn co http://simile.mit.edu/repository/ajax/trunk/src/webapp/api/ support/simile-ajax
+	find support/ -name ".svn" -type d -print0 | xargs -0 rm -rf

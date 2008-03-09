@@ -1,2 +1,3 @@
 webroot/*.xml
-webroot/timeline
+support/timeline
+support/simile-ajax

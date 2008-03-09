@@ -4,7 +4,7 @@ function onLoad() {
 	var theme = Timeline.ClassicTheme.create();
 	theme.event.track.gap = 15.0;
 	theme.event.tape.height = 3.0;
-	theme.event.instant.icon = 'img/debian_sm.png';
+	theme.event.instant.icon = 'support/debian_sm.png';
 	theme.event.duration.color = '#FF6666';
 
 	var events = new Timeline.DefaultEventSource();
@@ -44,9 +44,9 @@ function onLoad() {
 	bandInfos[2].syncWith = 0;
 
 	tl = Timeline.create(document.getElementById("the-timeline"), bandInfos);
-	Timeline.loadXML("events.xml", function(xml, url) { events.loadXML(xml, url); });
-	Timeline.loadXML("releases.xml", function(xml, url) { releases.loadXML(xml, url); });
-	Timeline.loadXML("updates.xml", function(xml, url) { updates.loadXML(xml, url); });
+	Timeline.loadXML("data/events.xml", function(xml, url) { events.loadXML(xml, url); });
+	Timeline.loadXML("data/releases.xml", function(xml, url) { releases.loadXML(xml, url); });
+	Timeline.loadXML("data/updates.xml", function(xml, url) { updates.loadXML(xml, url); });
 }
 
 var resizeTimerID = null;
