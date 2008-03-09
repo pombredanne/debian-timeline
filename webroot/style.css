@@ -126,7 +126,8 @@ table
 
 .timeline-default {
     font-family: Trebuchet MS, Helvetica, Arial, sans serif;
-    font-size: 9pt;
+    font-size: 1em;
     border: 1px solid #aaa;
 }
 
+.timeline-event-bubble-time { display: none; }
