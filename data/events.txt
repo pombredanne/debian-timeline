@@ -23,7 +23,7 @@ Jul 18 2007		sparc32 architecture retired	http://lists.debian.org/debian-devel-a
 Feb 15 2002	Feb 17 2002	Bug squashing party	http://lists.debian.org/debian-devel-announce/2002/02/msg00007.html
 Aug 11 2006	Aug 13 2006	Bug squashing party (Skolelinux Testcenter, Gütersloh, Germany)	http://lists.debian.org/debian-announce/2006/msg00003.html
 Sep 08 2006	Sep 10 2006	Bug squashing party (Don Bosco Studentenheim, Vienna, Austria)	http://lists.debian.org/debian-announce/2006/msg00003.html
-Sep 09 2006			Bug squashing party (AILab, Uni Zürich, Switzerland)	http://lists.debian.ch/community@lists.debian.ch/2003-2007/msg00796.html
+Sep 09 2006		Bug squashing party (AILab, Uni Zürich, Switzerland)	http://lists.debian.ch/community@lists.debian.ch/2003-2007/msg00796.html
 Oct 06 2006	Oct 08 2006	Bug squashing party (Espace Autogéré des Tanneries, Dijon, France)	http://lists.debian.org/debian-announce/2006/msg00003.html
 Oct 06 2006	Oct 08 2006	Bug squashing party (AILab, Uni Zürich, Switzerland)	http://lists.debian.ch/community@lists.debian.ch/2003-2007/msg00804.html
 Jan 11 2008	Jan 13 2008	Bug squashing party (AILab, Uni Zürich, Switzerland)	http://lists.debian.ch/community@lists.debian.ch/2008/msg00000.html
