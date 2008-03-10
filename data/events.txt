@@ -153,4 +153,5 @@ Aug 05 2007		Debian Maintainers approved by vote	http://www.debian.org/vote/2007
 Mar 02 2008	Apr 13 2008	DPL 2008 elections	http://www.debian.org/vote/2008/vote_001
 
 # Misc release
+Jun 06 2005		Release of the book "The Debian System"	http://debiansystem.info
 Jan 03 2006		Etch timelined for release in December	http://lists.debian.org/debian-devel-announce/2006/01/msg00001.html
