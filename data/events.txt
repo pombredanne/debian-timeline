@@ -81,23 +81,31 @@ Feb 08 2001		debhelper 3.0	http://packages.debian.org/changelogs/pool/main/d/deb
 Apr 27 2001		dpkg 1.9.0 released	http://lists.debian.org/debian-devel-announce/2001/04/msg00016.html
 Apr 11 2002		debhelper 4.0	http://packages.debian.org/changelogs/pool/main/d/debhelper/debhelper_6.0.7/changelog
 Jan 07 2003		gcc 3.2 default compiler in unstable	http://lists.debian.org/debian-devel-announce/2003/01/msg00003.html
-Nov 09 2003		First beta of debian-installer	http://lists.debian.org/debian-devel-announce/2003/11/msg00003.html
 Dec 23 2003		Package signing added to apt	http://bugs.debian.org/203741
-Jan 14 2004		Second beta of debian-installer	http://lists.debian.org/debian-devel-announce/2004/01/msg00006.html
-Mar 16 2004		Third beta of debian-installer	http://lists.debian.org/debian-devel-announce/2004/03/msg00013.html
-Apr 30 2004		Fourth beta of debian-installer	http://lists.debian.org/debian-devel-announce/2004/04/msg00025.html
 Jun 11 2004		AMD64 port "ready for sid"	http://lists.debian.org/debian-devel-announce/2004/06/msg00002.html
 Jul 05 2005		gcc 4.0 default compiler in unstable	http://lists.debian.org/debian-devel-announce/2005/07/msg00001.html
 Aug 25 2005		REJECT FAQ for NEW added	http://lists.debian.org/debian-devel-announce/2005/08/msg00011.html
 Nov 01 2005		debhelper 5.0	http://packages.debian.org/changelogs/pool/main/d/debhelper/debhelper_6.0.7/changelog
-Nov 11 2005		First beta of etch's debian-installer	http://lists.debian.org/debian-devel-announce/2005/11/msg00008.html
 Mar 22 2006		debmake deprecated	http://lists.debian.org/debian-devel-announce/2006/03/msg00019.html
-Mar 26 2006		Second beta of etch's debian-installer	http://lists.debian.org/debian-devel-announce/2006/03/msg00013.html
 Jun 07 2006		gcc 4.1 default compiler in unstable	http://lists.debian.org/debian-devel-announce/2006/06/msg00004.html
 Sep 01 2007		gcc 4.2 default compiler in unstable
 Sep 04 2006		cdrkit (cdrtools fork) uploaded	http://lists.debian.org/debian-devel-announce/2006/09/msg00002.html
 Oct 01 2007		Installation of "Recommends:" by default	http://lists.debian.org/debian-devel-announce/2007/08/msg00000.html
 Jan 08 2008		debhelper 6.0	http://packages.debian.org/changelogs/pool/main/d/debhelper/debhelper_6.0.7/changelog
+
+# Software::debian-installer
+Nov 09 2003		First beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2003/2
+Jan 14 2004		Second beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2004/20040114
+Mar 15 2004		Third beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2004/20040315
+Apr 30 2004		Fourth beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2004/20040430
+Aug 07 2004		debian-installer for Sarce (RC1) released	http://www.debian.org/devel/debian-installer/News/2004/20040807
+Nov 22 2004		debian-installer for Sarge (RC2) released	http://www.debian.org/devel/debian-installer/News/2004/20041122
+Mar 23 2005		debian-installer for Sarge (RC3) released	http://www.debian.org/devel/debian-installer/News/2005/20050323
+Nov 11 2005		First beta of Etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2005/20051111
+Mar 26 2006		Second beta of Etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2006/20060315
+Aug 11 2006		Third beta of Etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2006/20060811
+Nov 13 2006		debian-installer for Etch (RC1) released	http://www.debian.org/devel/debian-installer/News/2006/20061113
+Mar 19 2007		debian-installer for Etch (RC2) released	http://www.debian.org/devel/debian-installer/News/2007/20070319
 
 # Conferences
 Jul 05 2000	Jul 08 2000	First Debconf (0), Bordeaux, France	http://debconf0.debconf.org/
