@@ -26,6 +26,7 @@ Sep 08 2006	Sep 10 2006	Bug squashing party (Don Bosco Studentenheim, Vienna, Au
 Sep 09 2006		Bug squashing party (AILab, Uni Zürich, Switzerland)	http://lists.debian.ch/community@lists.debian.ch/2003-2007/msg00796.html
 Oct 06 2006	Oct 08 2006	Bug squashing party (Espace Autogéré des Tanneries, Dijon, France)	http://lists.debian.org/debian-announce/2006/msg00003.html
 Oct 06 2006	Oct 08 2006	Bug squashing party (AILab, Uni Zürich, Switzerland)	http://lists.debian.ch/community@lists.debian.ch/2003-2007/msg00804.html
+Sep 29 2007	Sep 30 2007	Bug squashing party (Espace Autogéré des Tanneries, Dijon, France)	http://lists.debian.org/debian-devel-french/2007/09/msg00000.html
 Jan 11 2008	Jan 13 2008	Bug squashing party (AILab, Uni Zürich, Switzerland)	http://lists.debian.ch/community@lists.debian.ch/2008/msg00000.html
 
 # Servers, etc.
