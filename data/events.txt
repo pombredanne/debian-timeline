@@ -133,29 +133,29 @@ Mar 17 1997		Ian Murdock elected as chairman of Board of Directors	http://www.us
 Jun 26 1997		Debian used in hydroponics experiment in space	http://www.us.debian.org/News/1997/shuttle1
 Jun 09 1997		"Software in the Public Interest" incorporated	http://www.us.debian.org/News/1997/19970307b
 Dec 23 1998	Feb 03 1999	DPL 1999 elections	http://www.debian.org/vote/1999/vote_0001
-Feb 03 1999		Wichert Akkerma elected DPL	http://www.debian.org/vote/1999/vote_0001
+Feb 03 1999		Wichert Akkerma elected as DPL	http://www.debian.org/vote/1999/vote_0001
 May 03 1999		'Swirl' voted as Debian logo	http://www.debian.org/vote/1999/vote_0004
 Jan 31 2000	Mar 16 2000	DPL 2000 elections	http://www.debian.org/vote/2000/vote_0007
-Mar 16 2000		Wichert Akkerman relected as DPL	http://www.debian.org/vote/2000/vote_0007
+Mar 16 2000		Wichert Akkerman re-elected as DPL	http://www.debian.org/vote/2000/vote_0007
 Jan 24 2001	Mar 28 2001	DPL 2001 elections	http://www.debian.org/vote/2001/vote_0001
-Mar 28 2001		Ben Collins elected DPL	http://www.debian.org/vote/2001/vote_0001
+Mar 28 2001		Ben Collins elected as DPL	http://www.debian.org/vote/2001/vote_0001
 Feb 06 2002	Apr 16 2002	DPL 2002 elections	http://www.debian.org/vote/2002/vote_0001
 Apr 16 2002		Bdale Garbee elected as DPL	http://www.debian.org/vote/2002/vote_0001
 Jan 24 2003	Mar 30 2003	DPL 2003 elections	http://www.debian.org/vote/2003/vote_0001
-Mar 30 2003		Martin Michlmayr elected DPL	http://www.debian.org/vote/2003/vote_0001
+Mar 30 2003		Martin Michlmayr elected as DPL	http://www.debian.org/vote/2003/vote_0001
 Feb 07 2004	Feb 28 2004	DPL 2004 elections	http://www.debian.org/vote/2004/vote_001
-Feb 28 2004		Martin Michlmayr relected DPL	http://www.debian.org/vote/2004/vote_001
+Feb 28 2004		Martin Michlmayr re-elected as DPL	http://www.debian.org/vote/2004/vote_001
 Mar 21 2004		Non-free support re-affirmed	http://www.debian.org/vote/2004/vote_002
 Feb 07 2005	Apr 11 2005	DPL 2005 elections	http://www.debian.org/vote/2005/vote_001
-Apr 11 2005		Branden Robinson elected DPL	http://www.debian.org/vote/2005/vote_001
+Apr 11 2005		Branden Robinson elected as DPL	http://www.debian.org/vote/2005/vote_001
 Mar 12 2006		GFDL texts without invariant sections considered free	http://www.debian.org/vote/2006/vote_001
 Feb 05 2006	Apr 09 2006	DPL 2006 elections	http://www.debian.org/vote/2006/vote_002
-Apr 09 2006		Anthony Towns elected DPL	http://www.debian.org/vote/2006/vote_002
+Apr 09 2006		Anthony Towns elected as DPL	http://www.debian.org/vote/2006/vote_002
 Oct 15 2006		Project leader not recalled by vote	http://www.debian.org/vote/2006/vote_005
 Oct 15 2006		"Re-affirm DPL, wish success to unofficial Dunc Tank" vote passed	http://www.debian.org/vote/2006/vote_006
 Oct 15 2006		"Release Etch with kernel firmware issues" vote passed	http://www.debian.org/vote/2006/vote_007
 Feb 04 2007	Apr 08 2007	DPL 2007 elections	http://www.debian.org/vote/2007/vote_001
-Apr 08 2007		Sam Hocevar elected DPL	http://www.debian.org/vote/2007/vote_001
+Apr 08 2007		Sam Hocevar elected as DPL	http://www.debian.org/vote/2007/vote_001
 Aug 05 2007		Debian Maintainers approved by vote	http://www.debian.org/vote/2007/vote_003
 Mar 02 2008	Apr 13 2008	DPL 2008 elections	http://www.debian.org/vote/2008/vote_001
 
