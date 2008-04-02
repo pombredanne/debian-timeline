@@ -143,8 +143,9 @@ Feb 01 1997		Board of Directors elected	http://www.us.debian.org/News/1997/19970
 Mar 17 1997		Ian Murdock elected as chairman of Board of Directors	http://www.us.debian.org/News/1997/19970317
 Jun 26 1997		Debian used in hydroponics experiment in space	http://www.us.debian.org/News/1997/shuttle1
 Jun 09 1997		"Software in the Public Interest" incorporated	http://www.us.debian.org/News/1997/19970307b
+Dec 01 1997		Ian Jackson becomes first DPL	http://cvs.infodrom.org/calendar/calendar.infodrom.debian?cvsroot=infodrom
 Dec 23 1998	Feb 03 1999	DPL 1999 elections	http://www.debian.org/vote/1999/vote_0001
-Feb 03 1999		Wichert Akkerma elected as DPL	http://www.debian.org/vote/1999/vote_0001
+Feb 03 1999		Wichert Akkerman elected as DPL	http://www.debian.org/vote/1999/vote_0001
 May 03 1999		'Swirl' voted as Debian logo	http://www.debian.org/vote/1999/vote_0004
 Jan 31 2000	Mar 16 2000	DPL 2000 elections	http://www.debian.org/vote/2000/vote_0007
 Mar 16 2000		Wichert Akkerman re-elected as DPL	http://www.debian.org/vote/2000/vote_0007
