@@ -40,8 +40,16 @@ Jul 12 2006		gluck.debian.org compromised	http://lists.debian.org/debian-devel-a
 Aug 16 1993		Debian founded	http://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcdcc6
 Dec 11 1995		Broken "Debian 1.0" released
 Aug 16 1998		5th Anniversary of Debian
-Jul 25 2000		Upcoming "Potato" release dedicated to Joel 'Espy' Klecker
 Aug 16 2003		10th Anniversary of Debian
+
+# Tragic
+Jul 11 2000		Joel 'Espy' Klecker passes away age 21
+Jul 25 2000		Upcoming "Potato" release dedicated to Joel 'Espy' Klecker
+Mar 01 2001		Christopher Matthew Rutter passes away aged 19
+Mar 28 2001		Fabrizio Polacco passed away
+Jul 21 2002		Martin 'blendi' Butterweck passes away after battling leukemia
+May 09 2004		Manuel 'ranty' Estrada Sainz and Andres 'ErConde' Garcia die in car accident
+Jul 30 2005		Jens 'jensen' Schmalzig dies after tragic accident
 
 # Other projects
 Mar 13 1994		Linux 1.0 released	http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html
