@@ -178,3 +178,11 @@ Jan 04 1999		Joey Hess releases first issue of DWN
 Jul 30 1999		Release of the book "Debian GNU/Linux: Guide to Installation and Usage"	http://www.us.debian.org/News/1999/19990730
 Jun 06 2005		Release of the book "The Debian System"	http://debiansystem.info
 Jan 03 2006		Etch timelined for release in December	http://lists.debian.org/debian-devel-announce/2006/01/msg00001.html
+
+# Bugs
+Jun 07 2001		Debian Bug #100000 reported by David B. Harris	http://bugs.debian.org/100000
+Jul 04 2003		Debian Bug #200000 reported by Michel Grentzinger	http://bugs.debian.org/200000
+Mar 17 2005		Debian Bug #300000 reported by Florian Zumbiehl	http://bugs.debian.org/300000
+Jan 26 2006		Debian Bug #350000 reported by Daniel Schepler	http://bugs.debian.org/350000
+Nov 23 2006		Debian Bug #400000 reported by Christian Perrier	http://bugs.debian.org/400000
+Nov 07 2007		Debian Bug #450000 reported by Raphael Geissert	http://bugs.debian.org/450000
