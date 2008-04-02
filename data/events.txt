@@ -174,6 +174,7 @@ Mar 02 2008	Apr 13 2008	DPL 2008 elections	http://www.debian.org/vote/2008/vote_
 # Misc release
 Aug 18 1997		2200 official CD sets sold in 8 weeks	http://www.us.debian.org/News/1997/19970818a
 Oct 20 1997		Release of the book "The Debian Linux User's Guide"	http://www.us.debian.org/News/1997/linux_press_book.txt
+Jan 04 1999		Joey Hess releases first issue of DWN
 Jul 30 1999		Release of the book "Debian GNU/Linux: Guide to Installation and Usage"	http://www.us.debian.org/News/1999/19990730
 Jun 06 2005		Release of the book "The Debian System"	http://debiansystem.info
 Jan 03 2006		Etch timelined for release in December	http://lists.debian.org/debian-devel-announce/2006/01/msg00001.html
