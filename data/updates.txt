@@ -1,5 +1,6 @@
 
 # Releases
+Oct 26 1995		Debian GNU/Linux 0.93R6 released
 Jun 17 1996		Debian GNU/Linux 1.1 ("Buzz") released	http://lists.debian.org/debian-announce/1996/msg00021.html
 Dec 12 1996		Debian GNU/Linux 1.2 ("Rex") released	http://lists.debian.org/debian-announce/1996/msg00026.html
 Jun 05 1997		Debian GNU/Linux 1.3 ("Bo") released	http://lists.debian.org/debian-announce/1997/msg00013.html
