@@ -55,11 +55,12 @@ Jul 30 2005		Jens 'jensen' Schmalzig dies after tragic accident
 Mar 13 1994		Linux 1.0 released	http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html
 Mar 07 1995		Linux 1.2 released	http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html
 Apr 30 1996		FSF sponsorship of Debian	http://lists.debian.org/debian-announce/1996/msg00008.html
+Jun 06 1997		Incorporation of SPI completed
 Jun 09 1996		Linux 2.0 released	http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html
 Oct 10 1997		Unix-on-Intel players work on a common binary format	http://www.us.debian.org/News/1997/common_library
 Nov 30 1997		Debian donates $1000 to Gnome Project	http://www.us.debian.org/News/1997/19971130
 Jan 26 1999		Linux 2.2 released	http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html
-Jun 02 1999		Non-Profit status approved for SPI	http://lists.debian.org/debian-announce/1999/msg00009.html
+Jun 02 1999		Non-profit status approved for SPI	http://lists.debian.org/debian-announce/1999/msg00009.html
 Nov 21 2000		Debian joins Gnome Foundation Advisory Board	http://lists.debian.org/debian-announce/2000/msg00013.html
 Feb 07 2000		Debian wins "Most Deserving of $2000" award	http://slashdot.org/article.pl?sid=00/02/06/1950248&amp;mode=nocomment
 Mar 01 2002		First Linspire release
