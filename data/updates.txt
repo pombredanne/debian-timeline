@@ -47,3 +47,4 @@ Aug 17 2007		Debian 4.0 ("Etch") updated (r1)	http://lists.debian.org/debian-ann
 Dec 27 2007		Debian 4.0 ("Etch") updated (r2)	http://lists.debian.org/debian-announce/2007/msg00004.html
 Dec 27 2007		Debian 3.1 ("Sarge") updated (r7)	http://lists.debian.org/debian-announce/2007/msg00005.html
 Feb 17 2008		Debian 4.0 ("Etch") updated (r3)	http://lists.debian.org/debian-announce/2008/msg00000.html
+Apr 13 2007		Debian 3.1 ("Sarge") updated (r8)	http://lists.debian.org/debian-announce/2008/msg00002.html
