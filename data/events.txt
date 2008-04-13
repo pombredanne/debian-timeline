@@ -172,6 +172,7 @@ Feb 04 2007	Apr 08 2007	DPL 2007 elections	http://www.debian.org/vote/2007/vote_
 Apr 08 2007		Sam Hocevar elected as DPL	http://www.debian.org/vote/2007/vote_001
 Aug 05 2007		Debian Maintainers approved by vote	http://www.debian.org/vote/2007/vote_003
 Mar 02 2008	Apr 13 2008	DPL 2008 elections	http://www.debian.org/vote/2008/vote_001
+Apr 13 2008		Steve McIntyre elected as DPL	http://www.debian.org/vote/2008/vote_001
 
 # Misc release
 Aug 18 1997		2200 official CD sets sold in 8 weeks	http://www.us.debian.org/News/1997/19970818a
