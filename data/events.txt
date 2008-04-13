@@ -29,6 +29,7 @@ Oct 06 2006	Oct 08 2006	Bug squashing party (Espace Autogéré des Tanneries, Di
 Oct 06 2006	Oct 08 2006	Bug squashing party (AILab, Uni Zürich, Switzerland)	http://lists.debian.ch/community@lists.debian.ch/2003-2007/msg00804.html
 Sep 29 2007	Sep 30 2007	Bug squashing party (Espace Autogéré des Tanneries, Dijon, France)	http://lists.debian.org/debian-devel-french/2007/09/msg00000.html
 Jan 11 2008	Jan 13 2008	Bug squashing party (AILab, Uni Zürich, Switzerland)	http://lists.debian.ch/community@lists.debian.ch/2008/msg00000.html
+Apr 04 2008	Apr 06 2008	Bug squashing party (Cambridge)	http://www.chiark.greenend.org.uk/pipermail/debian-uk/2008-March/011138.html
 
 # Servers, etc.
 Nov 20 2002		satie.debian.org in flames	http://lists.debian.org/debian-devel-announce/2002/11/msg00009.html
