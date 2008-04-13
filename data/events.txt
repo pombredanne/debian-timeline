@@ -109,6 +109,7 @@ Sep 01 2007		gcc 4.2 default compiler in unstable
 Sep 04 2006		cdrkit (cdrtools fork) uploaded	http://lists.debian.org/debian-devel-announce/2006/09/msg00002.html
 Oct 01 2007		Installation of "Recommends:" by default	http://lists.debian.org/debian-devel-announce/2007/08/msg00000.html
 Jan 08 2008		debhelper 6.0	http://packages.debian.org/changelogs/pool/main/d/debhelper/debhelper_6.0.7/changelog
+Apr 08 2008		dpkg with triggers in unstable	http://packages.debian.org/changelogs/pool/main/d/dpkg/dpkg_1.14.18/changelog
 
 # Software::debian-installer
 Nov 09 2003		First beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2003/2
