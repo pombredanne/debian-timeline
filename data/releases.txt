@@ -1,3 +1,8 @@
+# Debian releases
+#
+# Format: tab-separated values
+# Rel.date	End date	Product name	Announcement URL
+
 Oct 26 1995	Jun 10 1996	Debian GNU/Linux 0.93R6 released
 Jun 17 1996	Dec 07 1996	Debian GNU/Linux 1.1 ("Buzz")	http://lists.debian.org/debian-announce/1996/msg00021.html
 Dec 12 1996	Jun 01 1997	Debian GNU/Linux 1.2 ("Rex")	http://lists.debian.org/debian-announce/1996/msg00026.html

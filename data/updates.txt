@@ -1,3 +1,7 @@
+# Updates to Debian releases
+#
+# Format: tab-separated values
+# Rel.date	End date	Short description	Announcement URL
 
 # Releases
 Oct 26 1995		Debian GNU/Linux 0.93R6 released
