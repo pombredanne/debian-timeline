@@ -1,4 +1,3 @@
-
 # Releases
 Oct 26 1995		Debian GNU/Linux 0.93R6 released
 Jun 17 1996		Debian GNU/Linux 1.1 ("Buzz") released	http://lists.debian.org/debian-announce/1996/msg00021.html
@@ -190,3 +189,5 @@ Mar 17 2005		Debian Bug #300000 reported by Florian Zumbiehl	http://bugs.debian.
 Jan 26 2006		Debian Bug #350000 reported by Daniel Schepler	http://bugs.debian.org/350000
 Nov 23 2006		Debian Bug #400000 reported by Christian Perrier	http://bugs.debian.org/400000
 Nov 07 2007		Debian Bug #450000 reported by Raphael Geissert	http://bugs.debian.org/450000
+
+# vim:tw=0:ts=14:noet

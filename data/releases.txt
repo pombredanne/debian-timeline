@@ -8,3 +8,5 @@ Aug 15 2000	Jul 14 2002	Debian GNU/Linux 2.2 ("Potato")	http://lists.debian.org/
 Jul 19 2002	Jun 01 2005	Debian GNU/Linux 3.0 ("Woody")	http://lists.debian.org/debian-announce/2002/msg00004.html
 Jun 06 2005	Apr 03 2007	Debian GNU/Linux 3.1 ("Sarge")	http://lists.debian.org/debian-announce/2005/msg00003.html
 Apr 08 2007	Oct 01 2008	Debian GNU/Linux 4.0 ("Etch")	http://lists.debian.org/debian-announce/2007/msg00002.html
+
+# vim:tw=0:ts=14:noet
