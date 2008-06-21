@@ -131,6 +131,7 @@ Aug 11 2006		Third beta of Etch's debian-installer released	http://www.debian.or
 Nov 13 2006		debian-installer for Etch (RC1) released	http://www.debian.org/devel/debian-installer/News/2006/20061113
 Mar 19 2007		debian-installer for Etch (RC2) released	http://www.debian.org/devel/debian-installer/News/2007/20070319
 Mar 17 2008		First beta of Lenny's debian-installer released	http://www.debian.org/devel/debian-installer/News/2008/20080317
+Jun 09 2008		Second beta of Lenny's debian-installer released	http://www.debian.org/devel/debian-installer/News/2008/20080609
 
 # Conferences
 Jul 05 2000	Jul 08 2000	First Debconf (0), Bordeaux, France	http://debconf0.debconf.org/
