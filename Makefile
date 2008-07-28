@@ -1,4 +1,9 @@
 
+INPUT	:= $(wildcard data/*.txt)
+OUTPUT	:= $(addsuffix .xml,$(basename $(INPUT)))
+
+all: update
+
 data/%.xml: data/%.txt
 	awk -F'\t' ' \
 		BEGIN { print "<data>" } \
@@ -10,7 +15,7 @@ data/%.xml: data/%.txt
 			print "</event>"; } \
 		END { print "</data>" }' $< > $@ 
 
-all: data/events.xml data/releases.xml data/updates.xml
+update: $(OUTPUT)
 
 clean:
 	rm -rf data/*.xml
