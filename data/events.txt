@@ -21,6 +21,7 @@ Jul 08 2005		Security support for Sarge "working again"	http://lists.debian.org/
 Jun 30 2006		Security dropped for Debian 3.0 ("Woody")	http://lists.debian.org/debian-announce/2006/msg00002.html
 Mar 31 2008		Security dropped for Debian 3.1 ("Sarge")	http://lists.debian.org/debian-announce/2008/msg00001.html
 May 13 2008		OpenSSL predictable PRNG vulnerability publicly announced	http://www.debian.org/security/2008/dsa-1571 
+Jul 08 2008		Kaminsky's DNS cache poisoning vulnerability publicly announced	http://www.debian.org/security/2008/dsa-1603
 
 # Architectures
 Jul 18 2007		sparc32 architecture retired	http://lists.debian.org/debian-devel-announce/2007/07/msg00006.html
