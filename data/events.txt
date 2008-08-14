@@ -48,6 +48,7 @@ Aug 16 1993		Debian founded	http://groups.google.com/group/comp.os.linux.develop
 Dec 11 1995		Broken "Debian 1.0" released
 Aug 16 1998		5th Anniversary of Debian
 Aug 16 2003		10th Anniversary of Debian
+Aug 16 2008		15th Anniversary of Debian
 
 # Tragic
 Jul 11 2000		Joel 'Espy' Klecker passes away age 21
