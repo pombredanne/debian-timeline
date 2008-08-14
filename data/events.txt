@@ -148,6 +148,7 @@ Jun 17 2007	Jun 23 2007	DebConf7, Edinburgh, Scotland	https://debconf7.debconf.o
 Nov 21 2007	Nov 23 2007	MiniDebConf Venezuela 2007	http://lists.debian.org/debian-devel-announce/2007/11/msg00003.html
 Jan 28 2008	Feb 02 2008	Debian Miniconf 7 at linux.conf.au	http://lists.debian.org/debian-devel-announce/2007/12/msg00008.html
 Feb 22 2008	Feb 24 2008	FOSDEM 2008
+Aug 10 2008	Aug 16 2008	DebConf8, Mar del Plata, Argentina	http://debconf8.debconf.org/
 
 # Voting / DPL
 Feb 01 1997		Board of Directors elected	http://www.us.debian.org/News/1997/19970301
