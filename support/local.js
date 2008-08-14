@@ -13,7 +13,7 @@ function onLoad() {
 	var updates = new Timeline.DefaultEventSource();
 
 	// TODO: Make this always be 'last month'
-	var date = '01 Mar 2008';
+	var date = '01 July 2008';
 	var bandInfos = [
 		Timeline.createBandInfo({
 			eventSource:    events,
