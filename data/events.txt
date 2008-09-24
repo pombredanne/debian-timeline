@@ -96,6 +96,7 @@ Sep 05 2005		BTS usertags announced	http://lists.debian.org/debian-devel-announc
 Apr 01 2007		Smith Review Project announced	http://lists.debian.org/debian-devel-announce/2007/04/msg00000.html
 Sep 02 2007		packages.debian.org updated	http://lists.debian.org/debian-devel-announce/2007/09/msg00001.html
 Nov 17 2007		Debian Maintainers opens	http://lists.debian.org/debian-devel-announce/2007/11/msg00004.html
+Sep 20 2008		ftp.upload.debian.org alias created	http://lists.debian.org/debian-devel-announce/2008/09/msg00006.html
 
 # Software
 Apr 11 1997		"Deity" (now "apt") project started	http://lists.debian.org/debian-user/1997/04/msg00786.html
