@@ -25,6 +25,7 @@ Jul 08 2008		Kaminsky's DNS cache poisoning vulnerability publicly announced	htt
 
 # Architectures
 Jul 18 2007		sparc32 architecture retired	http://lists.debian.org/debian-devel-announce/2007/07/msg00006.html
+Sep 08 2008		m68k architecture moving to debian-ports.org	http://lists.debian.org/debian-devel-announce/2008/09/msg00001.html
 
 # Bug squashing parties
 Feb 15 2002	Feb 17 2002	Bug squashing party	http://lists.debian.org/debian-devel-announce/2002/02/msg00007.html
