@@ -126,7 +126,7 @@ Nov 09 2003		First beta of debian-installer released	http://www.debian.org/devel
 Jan 14 2004		Second beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2004/20040114
 Mar 15 2004		Third beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2004/20040315
 Apr 30 2004		Fourth beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2004/20040430
-Aug 07 2004		debian-installer for Sarce (RC1) released	http://www.debian.org/devel/debian-installer/News/2004/20040807
+Aug 07 2004		debian-installer for Sarge (RC1) released	http://www.debian.org/devel/debian-installer/News/2004/20040807
 Nov 22 2004		debian-installer for Sarge (RC2) released	http://www.debian.org/devel/debian-installer/News/2004/20041122
 Mar 23 2005		debian-installer for Sarge (RC3) released	http://www.debian.org/devel/debian-installer/News/2005/20050323
 Nov 11 2005		First beta of Etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2005/20051111
