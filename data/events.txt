@@ -144,6 +144,7 @@ Jul 05 2002	Jul 07 2002	DebConf2, Toronto, Canada	http://debconf2.debconf.org/
 Jul 12 2003	Jul 17 2003	DebConf3, Oslo, Norway	http://debconf3.debconf.org/
 Jul 18 2003	Jul 20 2003	DebCamp, Oslo, Norway	http://debconf3.debconf.org/
 May 26 2004	Jun 02 2004	DebConf4, Porto Alegre, Brazil	http://debconf4.debconf.org/
+Mar 05 2005	Mar 06 2005	Vancouver release team meeting	http://lists.debian.org/debian-devel-announce/2005/03/msg00012.html
 Jul 10 2005	Jul 17 2005	DebConf5, Helsinki, Finland	http://debconf5.debconf.org/
 May 14 2006	May 22 2006	DebConf6, Oaxtepec, Mexico	http://debconf6.debconf.org/
 Aug 19 2006	Aug 20 2006	MiniDebConf Colombia 2006	http://lists.debian.org/debian-devel-announce/2006/08/msg00002.html
