@@ -172,6 +172,8 @@ Mar 30 2003		Martin Michlmayr elected as DPL	http://www.debian.org/vote/2003/vot
 Feb 07 2004	Feb 28 2004	DPL 2004 elections	http://www.debian.org/vote/2004/vote_001
 Feb 28 2004		Martin Michlmayr re-elected as DPL	http://www.debian.org/vote/2004/vote_001
 Mar 21 2004		Non-free support re-affirmed	http://www.debian.org/vote/2004/vote_002
+Apr 25 2004		Social Contract amended	http://www.debian.org/vote/2004/vote_003
+Jul 02 2004		Social Contract changes postponed to after "sarge" release	http://www.debian.org/vote/2004/vote_004
 Feb 07 2005	Apr 11 2005	DPL 2005 elections	http://www.debian.org/vote/2005/vote_001
 Apr 11 2005		Branden Robinson elected as DPL	http://www.debian.org/vote/2005/vote_001
 Mar 12 2006		GFDL texts without invariant sections considered free	http://www.debian.org/vote/2006/vote_001
