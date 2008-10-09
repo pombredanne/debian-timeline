@@ -141,8 +141,8 @@ Jun 09 2008		Second beta of lenny's debian-installer released	http://www.debian.
 Jul 05 2000	Jul 08 2000	First Debconf (0), Bordeaux, France	http://debconf0.debconf.org/
 Jul 02 2001	Jul 05 2001	DebConf1, Bordeaux, France	http://debconf1.debconf.org/
 Jul 05 2002	Jul 07 2002	DebConf2, Toronto, Canada	http://debconf2.debconf.org/
-Jul 12 2003	Jul 17 2003	DebConf3, Oslo, Norway	http://debconf3.debconf.org/
-Jul 18 2003	Jul 20 2003	DebCamp, Oslo, Norway	http://debconf3.debconf.org/
+Jul 12 2003	Jul 17 2003	DebCamp3, Oslo, Norway	http://debconf3.debconf.org/
+Jul 18 2003	Jul 20 2003	DebConf3, Oslo, Norway	http://debconf3.debconf.org/
 May 26 2004	Jun 02 2004	DebConf4, Porto Alegre, Brazil	http://debconf4.debconf.org/
 Mar 05 2005	Mar 06 2005	Vancouver release team meeting	http://lists.debian.org/debian-devel-announce/2005/03/msg00012.html
 Jul 10 2005	Jul 17 2005	DebConf5, Helsinki, Finland	http://debconf5.debconf.org/
