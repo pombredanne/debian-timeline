@@ -4,14 +4,14 @@
 # Rel.date	End date	Product name	Announcement URL
 
 Oct 26 1995	Jun 10 1996	Debian GNU/Linux 0.93R6 released
-Jun 17 1996	Dec 07 1996	Debian GNU/Linux 1.1 ("Buzz")	http://lists.debian.org/debian-announce/1996/msg00021.html
-Dec 12 1996	Jun 01 1997	Debian GNU/Linux 1.2 ("Rex")	http://lists.debian.org/debian-announce/1996/msg00026.html
-Jun 05 1997	Jul 19 1998	Debian GNU/Linux 1.3 ("Bo")	http://lists.debian.org/debian-announce/1997/msg00013.html
-Jul 24 1998	Mar 04 1999	Debian GNU/Linux 2.0 ("Hamm")	http://lists.debian.org/debian-announce/1998/msg00015.html
-Mar 09 1999	Aug 10 2000	Debian GNU/Linux 2.1 ("Slink")	http://lists.debian.org/debian-announce/1999/msg00005.html
-Aug 15 2000	Jul 14 2002	Debian GNU/Linux 2.2 ("Potato")	http://lists.debian.org/debian-announce/2000/msg00009.html
-Jul 19 2002	Jun 01 2005	Debian GNU/Linux 3.0 ("Woody")	http://lists.debian.org/debian-announce/2002/msg00004.html
-Jun 06 2005	Apr 03 2007	Debian GNU/Linux 3.1 ("Sarge")	http://lists.debian.org/debian-announce/2005/msg00003.html
-Apr 08 2007	Oct 01 2008	Debian GNU/Linux 4.0 ("Etch")	http://lists.debian.org/debian-announce/2007/msg00002.html
+Jun 17 1996	Dec 07 1996	Debian GNU/Linux 1.1 ("buzz")	http://lists.debian.org/debian-announce/1996/msg00021.html
+Dec 12 1996	Jun 01 1997	Debian GNU/Linux 1.2 ("rex")	http://lists.debian.org/debian-announce/1996/msg00026.html
+Jun 05 1997	Jul 19 1998	Debian GNU/Linux 1.3 ("bo")	http://lists.debian.org/debian-announce/1997/msg00013.html
+Jul 24 1998	Mar 04 1999	Debian GNU/Linux 2.0 ("hamm")	http://lists.debian.org/debian-announce/1998/msg00015.html
+Mar 09 1999	Aug 10 2000	Debian GNU/Linux 2.1 ("slink")	http://lists.debian.org/debian-announce/1999/msg00005.html
+Aug 15 2000	Jul 14 2002	Debian GNU/Linux 2.2 ("potato")	http://lists.debian.org/debian-announce/2000/msg00009.html
+Jul 19 2002	Jun 01 2005	Debian GNU/Linux 3.0 ("woody")	http://lists.debian.org/debian-announce/2002/msg00004.html
+Jun 06 2005	Apr 03 2007	Debian GNU/Linux 3.1 ("sarge")	http://lists.debian.org/debian-announce/2005/msg00003.html
+Apr 08 2007	Oct 01 2008	Debian GNU/Linux 4.0 ("etch")	http://lists.debian.org/debian-announce/2007/msg00002.html
 
 # vim:tw=0:ts=14:noet

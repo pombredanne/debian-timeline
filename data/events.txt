@@ -5,21 +5,21 @@
 
 # Releases
 Oct 26 1995		Debian GNU/Linux 0.93R6 released
-Jun 17 1996		Debian GNU/Linux 1.1 ("Buzz") released	http://lists.debian.org/debian-announce/1996/msg00021.html
-Dec 12 1996		Debian GNU/Linux 1.2 ("Rex") released	http://lists.debian.org/debian-announce/1996/msg00026.html
-Jun 05 1997		Debian GNU/Linux 1.3 ("Bo") released	http://lists.debian.org/debian-announce/1997/msg00013.html
-Jul 24 1998		Debian GNU/Linux 2.0 ("Hamm") released	http://lists.debian.org/debian-announce/1998/msg00015.html
-Mar 09 1999		Debian GNU/Linux 2.1 ("Slink") released	http://lists.debian.org/debian-announce/1999/msg00005.html
-Aug 15 2000		Debian GNU/Linux 2.2 ("Potato") released	http://lists.debian.org/debian-announce/2000/msg00009.html
-Jul 19 2002		Debian GNU/Linux 3.0 ("Woody") released	http://lists.debian.org/debian-announce/2002/msg00004.html
-Jun 06 2005		Debian GNU/Linux 3.1 ("Sarge") released	http://lists.debian.org/debian-announce/2005/msg00003.html
-Apr 08 2007		Debian GNU/Linux 4.0 ("Etch") released	http://lists.debian.org/debian-announce/2007/msg00002.html
+Jun 17 1996		Debian GNU/Linux 1.1 ("buzz") released	http://lists.debian.org/debian-announce/1996/msg00021.html
+Dec 12 1996		Debian GNU/Linux 1.2 ("rex") released	http://lists.debian.org/debian-announce/1996/msg00026.html
+Jun 05 1997		Debian GNU/Linux 1.3 ("bo") released	http://lists.debian.org/debian-announce/1997/msg00013.html
+Jul 24 1998		Debian GNU/Linux 2.0 ("hamm") released	http://lists.debian.org/debian-announce/1998/msg00015.html
+Mar 09 1999		Debian GNU/Linux 2.1 ("slink") released	http://lists.debian.org/debian-announce/1999/msg00005.html
+Aug 15 2000		Debian GNU/Linux 2.2 ("potato") released	http://lists.debian.org/debian-announce/2000/msg00009.html
+Jul 19 2002		Debian GNU/Linux 3.0 ("woody") released	http://lists.debian.org/debian-announce/2002/msg00004.html
+Jun 06 2005		Debian GNU/Linux 3.1 ("sarge") released	http://lists.debian.org/debian-announce/2005/msg00003.html
+Apr 08 2007		Debian GNU/Linux 4.0 ("etch") released	http://lists.debian.org/debian-announce/2007/msg00002.html
 
 # Security
 Jun 08 2002		Security build infrastructure	http://lists.debian.org/debian-devel-announce/2002/06/msg00002.html
-Jul 08 2005		Security support for Sarge "working again"	http://lists.debian.org/debian-announce/2005/msg00004.html
-Jun 30 2006		Security dropped for Debian 3.0 ("Woody")	http://lists.debian.org/debian-announce/2006/msg00002.html
-Mar 31 2008		Security dropped for Debian 3.1 ("Sarge")	http://lists.debian.org/debian-announce/2008/msg00001.html
+Jul 08 2005		Security support for sarge "working again"	http://lists.debian.org/debian-announce/2005/msg00004.html
+Jun 30 2006		Security dropped for Debian 3.0 ("woody")	http://lists.debian.org/debian-announce/2006/msg00002.html
+Mar 31 2008		Security dropped for Debian 3.1 ("sarge")	http://lists.debian.org/debian-announce/2008/msg00001.html
 May 13 2008		OpenSSL predictable PRNG vulnerability publicly announced	http://www.debian.org/security/2008/dsa-1571 
 Jul 08 2008		Kaminsky's DNS cache poisoning vulnerability publicly announced	http://www.debian.org/security/2008/dsa-1603
 
@@ -53,7 +53,7 @@ Aug 16 2008		15th Anniversary of Debian
 
 # Tragic
 Jul 11 2000		Joel 'Espy' Klecker passes away age 21
-Jul 25 2000		Upcoming "Potato" release dedicated to Joel 'Espy' Klecker
+Jul 25 2000		Upcoming "potato" release dedicated to Joel 'Espy' Klecker
 Mar 01 2001		Christopher Matthew Rutter passes away aged 19
 Mar 28 2001		Fabrizio Polacco passed away
 Jul 21 2002		Martin 'blendi' Butterweck passes away after battling leukemia
@@ -126,16 +126,16 @@ Nov 09 2003		First beta of debian-installer released	http://www.debian.org/devel
 Jan 14 2004		Second beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2004/20040114
 Mar 15 2004		Third beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2004/20040315
 Apr 30 2004		Fourth beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2004/20040430
-Aug 07 2004		debian-installer for Sarge (RC1) released	http://www.debian.org/devel/debian-installer/News/2004/20040807
-Nov 22 2004		debian-installer for Sarge (RC2) released	http://www.debian.org/devel/debian-installer/News/2004/20041122
-Mar 23 2005		debian-installer for Sarge (RC3) released	http://www.debian.org/devel/debian-installer/News/2005/20050323
-Nov 11 2005		First beta of Etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2005/20051111
-Mar 26 2006		Second beta of Etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2006/20060315
-Aug 11 2006		Third beta of Etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2006/20060811
-Nov 13 2006		debian-installer for Etch (RC1) released	http://www.debian.org/devel/debian-installer/News/2006/20061113
-Mar 19 2007		debian-installer for Etch (RC2) released	http://www.debian.org/devel/debian-installer/News/2007/20070319
-Mar 17 2008		First beta of Lenny's debian-installer released	http://www.debian.org/devel/debian-installer/News/2008/20080317
-Jun 09 2008		Second beta of Lenny's debian-installer released	http://www.debian.org/devel/debian-installer/News/2008/20080609
+Aug 07 2004		debian-installer for sarge (RC1) released	http://www.debian.org/devel/debian-installer/News/2004/20040807
+Nov 22 2004		debian-installer for sarge (RC2) released	http://www.debian.org/devel/debian-installer/News/2004/20041122
+Mar 23 2005		debian-installer for sarge (RC3) released	http://www.debian.org/devel/debian-installer/News/2005/20050323
+Nov 11 2005		First beta of etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2005/20051111
+Mar 26 2006		Second beta of etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2006/20060315
+Aug 11 2006		Third beta of etch's debian-installer released	http://www.debian.org/devel/debian-installer/News/2006/20060811
+Nov 13 2006		debian-installer for etch (RC1) released	http://www.debian.org/devel/debian-installer/News/2006/20061113
+Mar 19 2007		debian-installer for etch (RC2) released	http://www.debian.org/devel/debian-installer/News/2007/20070319
+Mar 17 2008		First beta of lenny's debian-installer released	http://www.debian.org/devel/debian-installer/News/2008/20080317
+Jun 09 2008		Second beta of lenny's debian-installer released	http://www.debian.org/devel/debian-installer/News/2008/20080609
 
 # Conferences
 Jul 05 2000	Jul 08 2000	First Debconf (0), Bordeaux, France	http://debconf0.debconf.org/
@@ -179,7 +179,7 @@ Feb 05 2006	Apr 09 2006	DPL 2006 elections	http://www.debian.org/vote/2006/vote_
 Apr 09 2006		Anthony Towns elected as DPL	http://www.debian.org/vote/2006/vote_002
 Oct 15 2006		Project leader not recalled by vote	http://www.debian.org/vote/2006/vote_005
 Oct 15 2006		"Re-affirm DPL, wish success to unofficial Dunc Tank" vote passed	http://www.debian.org/vote/2006/vote_006
-Oct 15 2006		"Release Etch with kernel firmware issues" vote passed	http://www.debian.org/vote/2006/vote_007
+Oct 15 2006		"Release etch with kernel firmware issues" vote passed	http://www.debian.org/vote/2006/vote_007
 Feb 04 2007	Apr 08 2007	DPL 2007 elections	http://www.debian.org/vote/2007/vote_001
 Apr 08 2007		Sam Hocevar elected as DPL	http://www.debian.org/vote/2007/vote_001
 Aug 05 2007		Debian Maintainers approved by vote	http://www.debian.org/vote/2007/vote_003
@@ -192,7 +192,7 @@ Oct 20 1997		Release of the book "The Debian Linux User's Guide"	http://www.us.d
 Jan 04 1999		Joey Hess releases first issue of DWN
 Jul 30 1999		Release of the book "Debian GNU/Linux: Guide to Installation and Usage"	http://www.us.debian.org/News/1999/19990730
 Jun 06 2005		Release of the book "The Debian System"	http://debiansystem.info
-Jan 03 2006		Etch timelined for release in December	http://lists.debian.org/debian-devel-announce/2006/01/msg00001.html
+Jan 03 2006		etch timelined for release in December	http://lists.debian.org/debian-devel-announce/2006/01/msg00001.html
 
 # Bugs
 Jun 07 2001		Debian Bug #100000 reported by David B. Harris	http://bugs.debian.org/100000
