@@ -145,14 +145,21 @@ Jul 12 2003	Jul 17 2003	DebCamp3, Oslo, Norway	http://debconf3.debconf.org/
 Jul 18 2003	Jul 20 2003	DebConf3, Oslo, Norway	http://debconf3.debconf.org/
 May 26 2004	Jun 02 2004	DebConf4, Porto Alegre, Brazil	http://debconf4.debconf.org/
 Mar 05 2005	Mar 06 2005	Vancouver release team meeting	http://lists.debian.org/debian-devel-announce/2005/03/msg00012.html
+Jul 02 2005	Jul 09 2005	DebCamp5, Helsinki, Finland	http://debconf5.debconf.org/
+Jul 09 2005		DebianDay5, Helsinki, Finland	http://debconf5.debconf.org/
 Jul 10 2005	Jul 17 2005	DebConf5, Helsinki, Finland	http://debconf5.debconf.org/
+May 06 2006	May 13 2006	DebCamp6, Oaxtepec, Mexico	http://debconf6.debconf.org/
+May 13 2006		DebianDay6, Oaxtepec, Mexico	http://debconf6.debconf.org/
 May 14 2006	May 22 2006	DebConf6, Oaxtepec, Mexico	http://debconf6.debconf.org/
 Aug 19 2006	Aug 20 2006	MiniDebConf Colombia 2006	http://lists.debian.org/debian-devel-announce/2006/08/msg00002.html
+Jun 10 2007	Jun 15 2007	DebCamp7, Edinburgh, Scotland	https://debconf7.debconf.org/
+Jun 16 2007		DebianDay7, Edinburgh, Scotland	https://debconf7.debconf.org/
 Jun 17 2007	Jun 23 2007	DebConf7, Edinburgh, Scotland	https://debconf7.debconf.org/
 Nov 21 2007	Nov 23 2007	MiniDebConf Venezuela 2007	http://lists.debian.org/debian-devel-announce/2007/11/msg00003.html
-Jan 28 2008	Feb 02 2008	Debian Miniconf 7 at linux.conf.au	http://lists.debian.org/debian-devel-announce/2007/12/msg00008.html
-Feb 22 2008	Feb 24 2008	FOSDEM 2008
+Jan 28 2008		Debian Miniconf 7 at LCA2008	http://miniconf7.debconf.org/
+Aug 02 2008	Aug 09 2008	DebCamp8, Mar del Plata, Argentina	http://debconf8.debconf.org/
 Aug 10 2008	Aug 16 2008	DebConf8, Mar del Plata, Argentina	http://debconf8.debconf.org/
+Aug 17 2008		DebianDay8, Buenos Aires, Argentina	http://debconf8.debconf.org/
 
 # Voting / DPL
 Feb 01 1997		Board of Directors elected	http://www.us.debian.org/News/1997/19970301
