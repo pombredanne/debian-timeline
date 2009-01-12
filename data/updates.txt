@@ -55,5 +55,7 @@ Apr 13 2008		Debian 3.1 ("sarge") updated (r8)	http://lists.debian.org/debian-an
 Jul 17 2008		Debian 5.0 ("lenny") libs frozen	http://lists.debian.org/debian-devel-announce/2008/07/msg00005.html
 Jul 27 2008		Debian 4.0 ("etch") updated (r4, "etch-and-half")	http://lists.debian.org/debian-announce/2008/msg00000.html
 Jul 27 2008		Debian 5.0 ("lenny") frozen	http://lists.debian.org/debian-devel-announce/2008/07/msg00007.html
+Oct 23 2008		Debian 4.0 ("etch") updated (r5)	http://lists.debian.org/debian-announce/2008/msg00004.html
+Dec 18 2008		Debian 4.0 ("etch") updated (r6)	http://lists.debian.org/debian-announce/2008/msg00006.html
 
 # vim:tw=0:ts=14:noet
