@@ -59,6 +59,7 @@ Mar 28 2001		Fabrizio Polacco passed away
 Jul 21 2002		Martin 'blendi' Butterweck passes away after battling leukemia
 May 09 2004		Manuel 'ranty' Estrada Sainz and Andres 'ErConde' Garcia die in car accident
 Jul 30 2005		Jens 'jensen' Schmalzig dies after tragic accident
+Dec 26 2008		Thiemo 'ths' Seufer dies in car accident	http://www.debian.org/News/2008/20081229
 
 # Other projects
 Mar 13 1994		Linux 1.0 released	http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html
@@ -97,6 +98,7 @@ Apr 01 2007		Smith Review Project announced	http://lists.debian.org/debian-devel
 Sep 02 2007		packages.debian.org updated	http://lists.debian.org/debian-devel-announce/2007/09/msg00001.html
 Nov 17 2007		Debian Maintainers opens	http://lists.debian.org/debian-devel-announce/2007/11/msg00004.html
 Sep 20 2008		ftp.upload.debian.org alias created	http://lists.debian.org/debian-devel-announce/2008/09/msg00006.html
+Nov 13 2008		screenshots.debian.net released	http://lists.debian.org/debian-devel-announce/2008/11/msg00003.html
 
 # Software
 Apr 11 1997		"Deity" (now "apt") project started	http://lists.debian.org/debian-user/1997/04/msg00786.html
@@ -120,6 +122,7 @@ Oct 01 2007		Installation of "Recommends:" by default	http://lists.debian.org/de
 Jan 08 2008		debhelper 6.0	http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog#versionversion6.0.0
 Apr 08 2008		dpkg with triggers in unstable	http://packages.debian.org/changelogs/pool/main/d/dpkg/dpkg_1.14.18/changelog
 Apr 24 2008		debhelper 7.0	http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog#versionversion7.0.0
+Nov 28 2008		AGPL deemed suitable for main	http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506402#10
 
 # Software::debian-installer
 Nov 09 2003		First beta of debian-installer released	http://www.debian.org/devel/debian-installer/News/2003/2
@@ -136,6 +139,7 @@ Nov 13 2006		debian-installer for etch (RC1) released	http://www.debian.org/deve
 Mar 19 2007		debian-installer for etch (RC2) released	http://www.debian.org/devel/debian-installer/News/2007/20070319
 Mar 17 2008		First beta of lenny's debian-installer released	http://www.debian.org/devel/debian-installer/News/2008/20080317
 Jun 09 2008		Second beta of lenny's debian-installer released	http://www.debian.org/devel/debian-installer/News/2008/20080609
+Nov 12 2008		First RC of lenny's debian-installer released	http://www.debian.org/devel/debian-installer/News/2008/20081112
 
 # Conferences
 Jul 05 2000	Jul 08 2000	First Debconf (0), Bordeaux, France	http://debconf0.debconf.org/
@@ -196,6 +200,8 @@ Apr 08 2007		Sam Hocevar elected as DPL	http://www.debian.org/vote/2007/vote_001
 Aug 05 2007		Debian Maintainers approved by vote	http://www.debian.org/vote/2007/vote_003
 Mar 02 2008	Apr 13 2008	DPL 2008 elections	http://www.debian.org/vote/2008/vote_001
 Apr 13 2008		Steve McIntyre elected as DPL	http://www.debian.org/vote/2008/vote_001
+Dec 18 2008		Manoj Srivastava resigns as secretary	http://lists.debian.org/debian-vote/2008/12/msg00275.html
+Jan 05 2009		Results of Lenny release GR announced	http://lists.debian.org/debian-devel-announce/2009/01/msg00000.html
 
 # Misc release
 Aug 18 1997		2200 official CD sets sold in 8 weeks	http://www.us.debian.org/News/1997/19970818a
