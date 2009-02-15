@@ -13,6 +13,6 @@ Aug 15 2000	Jul 14 2002	Debian GNU/Linux 2.2 ("potato")	http://lists.debian.org/
 Jul 19 2002	Jun 01 2005	Debian GNU/Linux 3.0 ("woody")	http://lists.debian.org/debian-announce/2002/msg00004.html
 Jun 06 2005	Apr 03 2007	Debian GNU/Linux 3.1 ("sarge")	http://lists.debian.org/debian-announce/2005/msg00003.html
 Apr 08 2007	Feb 09 2009	Debian GNU/Linux 4.0 ("etch")	http://lists.debian.org/debian-announce/2007/msg00002.html
-Feb 14 2009	Oct 01 2010	Debian GNU/Linux 5.0 ("squeeze")	http://lists.debian.org/debian-announce/2009/msg00002.html
+Feb 14 2009	Oct 01 2010	Debian GNU/Linux 5.0 ("lenny")	http://lists.debian.org/debian-announce/2009/msg00002.html
 
 # vim:tw=0:ts=14:noet

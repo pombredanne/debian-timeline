@@ -14,7 +14,7 @@ Aug 15 2000		Debian GNU/Linux 2.2 ("potato") released	http://lists.debian.org/de
 Jul 19 2002		Debian GNU/Linux 3.0 ("woody") released	http://lists.debian.org/debian-announce/2002/msg00004.html
 Jun 06 2005		Debian GNU/Linux 3.1 ("sarge") released	http://lists.debian.org/debian-announce/2005/msg00003.html
 Apr 08 2007		Debian GNU/Linux 4.0 ("etch") released	http://lists.debian.org/debian-announce/2007/msg00002.html
-Feb 14 2009		Debian GNU/Linux 5.0 ("squeeze") released	http://lists.debian.org/debian-announce/2009/msg00002.html
+Feb 14 2009		Debian GNU/Linux 5.0 ("lenny") released	http://lists.debian.org/debian-announce/2009/msg00002.html
 
 Oct 26 1995		Debian 0.93 updated (r6)	http://lists.debian.org/debian-announce/1995/msg00007.html
 Jul 08 1997		Debian 1.3 ("bo") updated (r1)	http://lists.debian.org/debian-announce/1997/msg00018.html
