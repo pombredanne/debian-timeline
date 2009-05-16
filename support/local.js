@@ -10,7 +10,7 @@ function onLoad() {
 
 	var events = new Timeline.DefaultEventSource();
 	var releases = new Timeline.DefaultEventSource();
-	var updates = new Timeline.DefaultEventSource();
+	var release_eras = new Timeline.DefaultEventSource();
 
 	// TODO: Make this always be 'last month'
 	var date = '01 July 2008';
@@ -24,7 +24,7 @@ function onLoad() {
 			theme:		theme
 		}),
 		Timeline.createBandInfo({
-			eventSource:    releases,
+			eventSource:    release_eras,
 			width:          "10%", 
 			intervalUnit:   Timeline.DateTime.YEAR, 
 			intervalPixels: 500,
@@ -32,7 +32,7 @@ function onLoad() {
 			theme:		theme
 		}),
 		Timeline.createBandInfo({
-			eventSource:    updates,
+			eventSource:    releases,
 			width:          "26%", 
 			intervalUnit:   Timeline.DateTime.YEAR, 
 			intervalPixels: 500,
@@ -40,7 +40,7 @@ function onLoad() {
 			theme:		theme
 		}),
 		Timeline.createBandInfo({
-			eventSource:    updates,
+			eventSource:    releases,
 			width:          "7%", 
 			intervalUnit:   Timeline.DateTime.YEAR, 
 			intervalPixels: 70,
@@ -57,9 +57,9 @@ function onLoad() {
 	bandInfos[3].syncWith = 0;
 
 	tl = Timeline.create(document.getElementById("the-timeline"), bandInfos);
-	Timeline.loadXML("data/events.xml", function(xml, url) { events.loadXML(xml, url); });
-	Timeline.loadXML("data/releases.xml", function(xml, url) { releases.loadXML(xml, url); });
-	Timeline.loadXML("data/updates.xml", function(xml, url) { updates.loadXML(xml, url); });
+	Timeline.loadXML("xml/events.xml", function(xml, url) { events.loadXML(xml, url); });
+	Timeline.loadXML("xml/releases.xml", function(xml, url) { releases.loadXML(xml, url); });
+	Timeline.loadXML("xml/release_eras.xml", function(xml, url) { release_eras.loadXML(xml, url); });
 }
 
 var resizeTimerID = null;
