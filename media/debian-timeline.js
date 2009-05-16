@@ -12,15 +12,16 @@ function onLoad() {
 	var releases = new Timeline.DefaultEventSource();
 	var release_eras = new Timeline.DefaultEventSource();
 
-	// TODO: Make this always be 'last month'
-	var date = '01 July 2008';
+	var start_date = new Date();
+	start_date.setDate(start_date.getDate() - 180)
+
 	var bandInfos = [
 		Timeline.createBandInfo({
 			eventSource:    events,
 			width:          "57%", 
 			intervalUnit:   Timeline.DateTime.MONTH, 
 			intervalPixels: 100,
-			date:		date,
+			date:		start_date,
 			theme:		theme
 		}),
 		Timeline.createBandInfo({
@@ -28,7 +29,7 @@ function onLoad() {
 			width:          "10%", 
 			intervalUnit:   Timeline.DateTime.YEAR, 
 			intervalPixels: 500,
-			date:		date,
+			date:		start_date,
 			theme:		theme
 		}),
 		Timeline.createBandInfo({
@@ -36,7 +37,7 @@ function onLoad() {
 			width:          "26%", 
 			intervalUnit:   Timeline.DateTime.YEAR, 
 			intervalPixels: 500,
-			date:		date,
+			date:		start_date,
 			theme:		theme
 		}),
 		Timeline.createBandInfo({
@@ -44,7 +45,7 @@ function onLoad() {
 			width:          "7%", 
 			intervalUnit:   Timeline.DateTime.YEAR, 
 			intervalPixels: 70,
-			date:		date,
+			date:		start_date,
 			theme:		theme,
 			overview:	true
 		})
