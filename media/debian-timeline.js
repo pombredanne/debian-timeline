@@ -13,7 +13,7 @@ function onLoad() {
 	var release_eras = new Timeline.DefaultEventSource();
 
 	var start_date = new Date();
-	start_date.setDate(start_date.getDate() - 180)
+	start_date.setDate(start_date.getDate() - 180);
 
 	var bandInfos = [
 		Timeline.createBandInfo({
@@ -65,7 +65,7 @@ function onLoad() {
 
 var resizeTimerID = null;
 function onResize() {
-    if (resizeTimerID == null) {
+    if (resizeTimerID === null) {
         resizeTimerID = window.setTimeout(function() {
             resizeTimerID = null;
             tl.layout();
