@@ -1,13 +1,13 @@
 INPUT	:= $(wildcard data/*)
 OUTPUT	:= $(addsuffix .xml,$(subst data/,xml/,$(basename $(INPUT))))
 
-all: update
+all: build
 
 xml/%.xml: data/%
 	@mkdir -p xml
 	./build.py $< >$@
 
-update: $(OUTPUT)
+build: $(OUTPUT)
 
 clean:
 	rm -rf xml
