@@ -84,3 +84,7 @@ Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/chan
 Title: AGPL deemed suitable for main
 Date: Nov 28 2008
 Source: http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506402#10
+
+Title: Debian packages for lenny's "Linux-libre" released
+Date: Apr 23 2009
+Source: http://lists.debian.org/debian-devel-announce/2009/04/msg00010.html
