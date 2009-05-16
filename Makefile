@@ -27,3 +27,5 @@ libs:
 	svn co http://simile.mit.edu/repository/timeline/trunk/src/webapp/api/ support/timeline
 	svn co http://simile.mit.edu/repository/ajax/trunk/src/webapp/api/ support/simile-ajax
 	find support/ -name ".svn" -type d -print0 | xargs -0 rm -rf
+
+.PHONY: install clean install libs
