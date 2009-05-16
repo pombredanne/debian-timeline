@@ -1,10 +1,6 @@
-/* Stylesheet for mentors.debian.net */
-/* (c) 2005,2006 the mentors.debian.net team */
-
 body
 {
     font-family: sans-serif;
-    font-size: 10pt;
     background-color: #ffffff;
     margin: 0;
     padding: 0;
@@ -15,72 +11,53 @@ img
     border: 0;
 }
 
-h1,h2
-{
-	font-family: "Bitstream Vera Serif", Georgia, Palatino, serif;
-	font-weight: normal;
-	color: #d70751;
-	margin: 0.5em 0 0.2em 0;
-	padding: 0 0 0 0;
-}
-
-h1
-{
-	font-size: 170%;
-	color: #000000;
-}
-
-h2
-{
-	font-size: 140%;
-	color: #808080;
-}
-
 #maincontent
 {
 	padding: 1em;
+	font-size: 10pt;
 }
 
-#header
-{
-	background-color: #f0f0f0;
-	color: #707070;
-	padding: 0.5ex;
-	min-height: 75px;	/* the top area is at least as large as the debian logo */
-		/* does not work with the IE but you won't see me write hacks to
-         * support buggy browsers */
-    border-bottom: 1px solid #b0b0b0;
+#header {
+    margin: 0 0 2px 0;
+    padding: 5px 20px;
+    background: #F3F3F3 url('debian.png') no-repeat right;
+    border-bottom: 1px solid #AAA;
 }
 
-#debianlogo
-{
-	float: left;
-	position: absolute;
-	top: 5px;
-	left: 5px;
-}
-#headertitle
-{
-    font-family: "Bitstream Vera Serif", Georgia, Palatino, serif;
-	font-size: 300%;
-	margin: 0;
-	margin-left: 70px;	/* indentation from the debian logo on the lft */
-	padding: 0;
-	font-weight: 100;
-}
-#headertitle a
-{
-	text-decoration: none;
-	font-weight: 100;
+#header p {
+    float: left;
+    margin: 5px 0;
+    color: #444;
+    font-size: 1.0em;
+    font-family: sans-serif;
+    font-weight: bold;
 }
 
-#headersubtitle
-{
-	padding: 0;
-	margin: 0;
-	margin-left: 70px;
-	font-size: 110%;
-	font-weight: 500;
+#header p a {
+    color: #444;
+    text-decoration: none;
+}
+
+#nav {
+    float: right;
+    margin: 5px 55px 5px 0;
+    padding: 0;
+}
+
+#nav li {
+    display: inline;
+    margin-left: 5px;
+}
+
+#nav a {
+    padding: 3px 5px;
+    color: #333;
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+#nav a:hover {
+    border-bottom: 2px solid #D70751;
 }
 
 #footer
@@ -91,7 +68,7 @@ h2
 	margin: 2em 0 0 0;
 	text-align: center;
 	clear: both;
-    border-top: 1px solid #b0b0b0;
+        border-top: 1px solid #b0b0b0;
     	font-size: 0.5em;
 }
 
@@ -132,3 +109,7 @@ table
 }
 
 .timeline-event-bubble-time { display: none; }
+
+div.clear {
+    clear: both;
+}
