@@ -3,7 +3,7 @@ function onLoad() {
 	
 	var theme = Timeline.ClassicTheme.create();
 	theme.event.track.gap = 15.0;
-	theme.event.tape.height = 3.0;
+	theme.event.tape.height = 2.0;
 	theme.event.instant.icon = 'media/debian_sm.png';
 	theme.event.duration.color = '#FF6666';
 	theme.ether.backgroundColors[3] = "#E8E8F4";
