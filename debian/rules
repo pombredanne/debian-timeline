@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_auto_install:
+	DESTDIR=$(DESTDIR)/usr/share/debian-timeline dh_auto_install

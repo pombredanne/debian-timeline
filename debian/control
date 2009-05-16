@@ -1,0 +1,25 @@
+Source: debian-timeline
+Section: web
+Priority: optional
+Maintainer: Chris Lamb <lamby@debian.org>
+Build-Depends: debhelper (>= 7)
+Build-Depends-Indep: python, python-debian
+Standards-Version: 3.8.1
+Homepage: http://timeline.debian.net/
+Vcs-Browser: http://git.chris-lamb.co.uk/?p=debian-timeline.git
+Vcs-Git: git://git.chris-lamb.co.uk/debian-timeline.git
+
+Package: debian-timeline
+Architecture: all
+Depends: ${misc:Depends}, libjs-simile-timeline
+Description: Web-based timeline of the Debian GNU/Linux project
+ The Debian Project timeline is a HTML and Javascript-based interactive
+ timeline of the Debian GNU/Linux project. It includes the dates of:
+ . 
+  * All Debian releases, including point releases and freeze windows
+  * Infrastructure changes
+  * Conferences and bug-squashing parties
+  * General resolution and DPL votes
+  * Important releases of Debian-specific and third-party software
+  * Curiosa items such as anniversaries and bug number milestones
+  * (and more)
