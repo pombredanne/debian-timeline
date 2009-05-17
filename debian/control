@@ -6,8 +6,8 @@ Build-Depends: debhelper (>= 7)
 Build-Depends-Indep: python, python-debian
 Standards-Version: 3.8.1
 Homepage: http://timeline.debian.net/
-Vcs-Browser: http://git.chris-lamb.co.uk/?p=debian-timeline.git
-Vcs-Git: git://git.chris-lamb.co.uk/debian-timeline.git
+Vcs-Browser: http://git.chris-lamb.co.uk/?p=debian/debian-timeline.git
+Vcs-Git: git://git.chris-lamb.co.uk/debian/debian-timeline.git
 
 Package: debian-timeline
 Architecture: all
