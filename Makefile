@@ -26,7 +26,7 @@ install: build
 	install -m644 -t $(TARGET) index.html 
 	set -e; for DIR in media xml; do \
 		install -d $(TARGET)/$$DIR; \
-		install -m644 -t $(TARGET)/$$DIR $$DIR/*; \
+		install -m644 -t $(TARGET)/$$DIR `find $$DIR -mindepth 1 -type f`; \
 	done
 
 .PHONY: install clean install check
