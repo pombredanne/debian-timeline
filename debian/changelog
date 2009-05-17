@@ -1,5 +1,5 @@
-debian-timeline (1) UNRELEASED; urgency=low
+debian-timeline (1) unstable; urgency=low
 
   * Initial release. (Closes: #529192)
 
- -- Chris Lamb <lamby@debian.org>  Sat, 16 May 2009 14:43:36 +0100
+ -- Chris Lamb <lamby@debian.org>  Sun, 17 May 2009 23:29:15 +0100
