@@ -3,7 +3,14 @@ OUTPUT	:= $(addsuffix .xml,$(subst data/,xml/,$(basename $(INPUT))))
 DESTDIR := /
 TARGET  := $(DESTDIR)/usr/share/debian-timeline
 
-all: build
+all: build check
+
+check:
+	@set -e; for LIBS in ajax js; do \
+	  if [ ! -e media/timeline_$$LIBS ]; then \
+	    echo "Warning - media/timeline_$$LIBS does not exist or is an invalid symlink."; \
+	  fi \
+	done
 
 xml/%.xml: data/%
 	@mkdir -p xml
@@ -22,10 +29,4 @@ install: build
 		install -m644 -t $(TARGET)/$$DIR $$DIR/*; \
 	done
 
-libs:
-	rm -rf support/timeline support/simile-ajax
-	svn co http://simile.mit.edu/repository/timeline/trunk/src/webapp/api/ support/timeline
-	svn co http://simile.mit.edu/repository/ajax/trunk/src/webapp/api/ support/simile-ajax
-	find support/ -name ".svn" -type d -print0 | xargs -0 rm -rf
-
-.PHONY: install clean install libs
+.PHONY: install clean install check
