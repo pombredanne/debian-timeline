@@ -1,4 +1,4 @@
-debian-timeline (2) UNRELEASED; urgency=low
+debian-timeline (2) unstable; urgency=low
 
   * "Debian Bug #530000 reported by Robert McQueen"
   * Add dates for Debian Pure Blends (previously "Custom Debian
@@ -7,7 +7,7 @@ debian-timeline (2) UNRELEASED; urgency=low
     - "Bug filed to replace smail with exim as default MTA"
     - "exim is the new default MTA for Debian stable"
 
- -- Chris Lamb <lamby@debian.org>  Sun, 24 May 2009 13:00:51 +0100
+ -- Chris Lamb <lamby@debian.org>  Tue, 26 May 2009 01:53:40 +0100
 
 debian-timeline (1) unstable; urgency=low
 
