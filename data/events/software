@@ -10,9 +10,17 @@ Title: Deity renamed to "apt"
 Date: Mar 23 1998
 Source: http://lists.debian.org/deity/1998/03/msg00114.html
 
+Title: Bug filed to replace smail with exim as default MTA
+Date: Oct 07 1998
+Source: http://lists.debian.org/debian-devel/1998/10/msg00570.html
+
 Title: debhelper 1.0
 Date: Aug 08 1998
 Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/debhelper_6.0.7/changelog
+
+Title: exim is the new default MTA for Debian stable
+Date: Mar 09 1999
+Source: http://www.oss-watch.ac.uk/resources/cs-exim.xml
 
 Title: debhelper 3.0
 Date: Feb 08 2001
