@@ -1,3 +1,10 @@
+debian-timeline (3) UNRELEASED; urgency=low
+
+  * Added:
+    - "EU/IPv6 upload queue created"
+
+ -- Chris Lamb <lamby@debian.org>  Fri, 29 May 2009 09:56:56 +0100
+
 debian-timeline (2) unstable; urgency=low
 
   * "Debian Bug #530000 reported by Robert McQueen"
