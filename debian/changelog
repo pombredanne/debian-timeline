@@ -2,6 +2,7 @@ debian-timeline (3) UNRELEASED; urgency=low
 
   * Added:
     - "EU/IPv6 upload queue created"
+    - "Debian 5.0 ("lenny") updated (r2)"
 
  -- Chris Lamb <lamby@debian.org>  Fri, 29 May 2009 09:56:56 +0100
 
