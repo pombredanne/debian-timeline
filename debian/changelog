@@ -1,11 +1,11 @@
-debian-timeline (3) UNRELEASED; urgency=low
+debian-timeline (3) unstable; urgency=low
 
   * Added:
     - "EU/IPv6 upload queue created"
     - "Debian 5.0 ("lenny") updated (r2)"
   * Bump Standards-Version to 3.8.2.
 
- -- Chris Lamb <lamby@debian.org>  Sat, 27 Jun 2009 22:57:03 +0100
+ -- Chris Lamb <lamby@debian.org>  Sat, 27 Jun 2009 22:58:45 +0100
 
 debian-timeline (2) unstable; urgency=low
 
