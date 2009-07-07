@@ -1,3 +1,10 @@
+debian-timeline (4) UNRELEASED; urgency=low
+
+  * Added:
+    - "gluck.debian.org shut down"
+
+ -- Chris Lamb <lamby@debian.org>  Tue, 07 Jul 2009 11:21:44 +0100
+
 debian-timeline (3) unstable; urgency=low
 
   * Added:
