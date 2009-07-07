@@ -13,6 +13,7 @@ debian-timeline (4) UNRELEASED; urgency=low
     - "debian-policy 3.6.0"
     - "debian-policy 3.7.0.0"
     - "debian-policy 3.8.0.0"
+  * Fix broken packages.debian.org changelog source links.
 
  -- Chris Lamb <lamby@debian.org>  Tue, 07 Jul 2009 11:21:44 +0100
 
