@@ -58,9 +58,10 @@ function onLoad() {
 	bandInfos[3].syncWith = 0;
 
 	tl = Timeline.create(document.getElementById("the-timeline"), bandInfos);
-	Timeline.loadXML("xml/events.xml", function(xml, url) { events.loadXML(xml, url); });
-	Timeline.loadXML("xml/releases.xml", function(xml, url) { releases.loadXML(xml, url); });
-	Timeline.loadXML("xml/release_eras.xml", function(xml, url) { release_eras.loadXML(xml, url); });
+	var random = Math.floor(Math.random() * 100000);
+	Timeline.loadXML("xml/events.xml?" + random, function(xml, url) { events.loadXML(xml, url); });
+	Timeline.loadXML("xml/releases.xml?" + random, function(xml, url) { releases.loadXML(xml, url); });
+	Timeline.loadXML("xml/release_eras.xml?" + random, function(xml, url) { release_eras.loadXML(xml, url); });
 }
 
 var resizeTimerID = null;
