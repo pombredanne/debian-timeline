@@ -66,10 +66,20 @@ Start-Date: Aug 19 2006
 End-Date: Aug 20 2006
 Source: http://lists.debian.org/debian-devel-announce/2006/08/msg00002.html
 
+Title: Debian Miniconf 6 at LCA2007
+Start-Date: Jan 15 2007
+End-Date: Jan 16 2007
+Source: http://miniconf6.debconf.org/
+
 Title: DebCamp7, Edinburgh, Scotland
 Start-Date: Jun 10 2007
 End-Date: Jun 15 2007
 Source: https://debconf7.debconf.org/
+
+Title: FOSDEM 2007
+Start-Date: Feb 24 2007
+End-Date: Feb 25 2007
+Source: http://times.debian.net/1081-FOSDEM-2007
 
 Title: DebianDay7, Edinburgh, Scotland
 Date: Jun 16 2007

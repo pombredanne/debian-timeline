@@ -2,6 +2,7 @@ debian-timeline (6) UNRELEASED; urgency=low
 
   * Added:
     - "Debian Bug #540000 reported by Jeff Chimene"
+    - "Debian Miniconf 6 at LCA2007"
 
  -- Chris Lamb <lamby@debian.org>  Wed, 05 Aug 2009 13:28:39 +0100
 
