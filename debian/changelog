@@ -5,6 +5,7 @@ debian-timeline (6) UNRELEASED; urgency=low
     - "Debian Miniconf 6 at LCA2007"
     - "woody release archived"
     - "Debian Security Tracker announced"
+    - "Changes to handling of inactive accounts"
 
  -- Chris Lamb <lamby@debian.org>  Wed, 05 Aug 2009 13:28:39 +0100
 
