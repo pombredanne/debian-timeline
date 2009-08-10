@@ -6,6 +6,7 @@ debian-timeline (6) UNRELEASED; urgency=low
     - "woody release archived"
     - "Debian Security Tracker announced"
     - "Changes to handling of inactive accounts"
+    - "French reaches 100% translation"
 
  -- Chris Lamb <lamby@debian.org>  Wed, 05 Aug 2009 13:28:39 +0100
 
