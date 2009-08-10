@@ -1,4 +1,4 @@
-debian-timeline (6) UNRELEASED; urgency=low
+debian-timeline (6) unstable; urgency=low
 
   * Added:
     - "Debian Bug #540000 reported by Jeff Chimene"
@@ -9,7 +9,7 @@ debian-timeline (6) UNRELEASED; urgency=low
     - "French reaches 100% translation"
     - "popcon reaches 50,000 contributors"
 
- -- Chris Lamb <lamby@debian.org>  Wed, 05 Aug 2009 13:28:39 +0100
+ -- Chris Lamb <lamby@debian.org>  Mon, 10 Aug 2009 04:13:28 +0100
 
 debian-timeline (5) unstable; urgency=low
 
