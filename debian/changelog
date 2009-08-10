@@ -7,6 +7,7 @@ debian-timeline (6) UNRELEASED; urgency=low
     - "Debian Security Tracker announced"
     - "Changes to handling of inactive accounts"
     - "French reaches 100% translation"
+    - "popcon reaches 50,000 contributors"
 
  -- Chris Lamb <lamby@debian.org>  Wed, 05 Aug 2009 13:28:39 +0100
 
