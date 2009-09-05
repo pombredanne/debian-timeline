@@ -6,6 +6,7 @@ debian-timeline (7) UNRELEASED; urgency=low
     - "DebConf9, Cáceres, Spain"
     - "Debian Open Day, Cáceres, Spain"
     - "Debian 5.0 ("lenny") updated (r3)"
+    - "grub package now based on GRUB2"
 
  -- Chris Lamb <lamby@debian.org>  Mon, 10 Aug 2009 04:17:51 +0100
 
