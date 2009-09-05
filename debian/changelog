@@ -1,4 +1,4 @@
-debian-timeline (7) UNRELEASED; urgency=low
+debian-timeline (7) unstable; urgency=low
 
   * Cachebust the XML sources when downloading them.
   * Added:
@@ -10,7 +10,7 @@ debian-timeline (7) UNRELEASED; urgency=low
   * Bump Standards-Version to 3.8.3.
   * Bump Build-Depends on debhelper to 7.0.50~ per lintian warning.
 
- -- Chris Lamb <lamby@debian.org>  Mon, 10 Aug 2009 04:17:51 +0100
+ -- Chris Lamb <lamby@debian.org>  Sat, 05 Sep 2009 12:16:41 +0100
 
 debian-timeline (6) unstable; urgency=low
 
