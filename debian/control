@@ -2,7 +2,7 @@ Source: debian-timeline
 Section: web
 Priority: optional
 Maintainer: Chris Lamb <lamby@debian.org>
-Build-Depends: debhelper (>= 7)
+Build-Depends: debhelper (>= 7.0.50~)
 Build-Depends-Indep: python, python-debian
 Standards-Version: 3.8.3
 Homepage: http://timeline.debian.net/
