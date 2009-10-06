@@ -1,3 +1,10 @@
+debian-timeline (8) UNRELEASED; urgency=low
+
+  * Added:
+    - "Debian Bug #550000 reported by Erik de Castro Lopo"
+
+ -- Chris Lamb <lamby@debian.org>  Wed, 07 Oct 2009 00:34:56 +0100
+
 debian-timeline (7) unstable; urgency=low
 
   * Cachebust the XML sources when downloading them.
