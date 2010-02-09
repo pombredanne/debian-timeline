@@ -1,4 +1,4 @@
-debian-timeline (8) UNRELEASED; urgency=low
+debian-timeline (8) unstable; urgency=low
 
   * Added:
     - "Debian Bug #550000 reported by Erik de Castro Lopo"
@@ -9,7 +9,7 @@ debian-timeline (8) UNRELEASED; urgency=low
     <sanxiyn@gmail.com>.
   * Bump Standards-Version to 3.8.4.
 
- -- Chris Lamb <lamby@debian.org>  Wed, 07 Oct 2009 00:34:56 +0100
+ -- Chris Lamb <lamby@debian.org>  Tue, 09 Feb 2010 12:26:49 +0000
 
 debian-timeline (7) unstable; urgency=low
 
