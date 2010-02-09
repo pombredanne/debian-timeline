@@ -5,6 +5,8 @@ debian-timeline (8) UNRELEASED; urgency=low
     - "Debian 5.0 ("lenny") updated (r4)"
     - "Lintian-based autorejects"
     - "FTPMaster meeting, Essen, Germany"
+  * Source URLs for various orbituaries. Patch by Seo Sanghyeon
+    <sanxiyn@gmail.com>.
   * Bump Standards-Version to 3.8.4.
 
  -- Chris Lamb <lamby@debian.org>  Wed, 07 Oct 2009 00:34:56 +0100
