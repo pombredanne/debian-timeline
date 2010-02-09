@@ -2,6 +2,7 @@ debian-timeline (8) UNRELEASED; urgency=low
 
   * Added:
     - "Debian Bug #550000 reported by Erik de Castro Lopo"
+    - "Debian 5.0 ("lenny") updated (r4)"
 
  -- Chris Lamb <lamby@debian.org>  Wed, 07 Oct 2009 00:34:56 +0100
 
