@@ -1,3 +1,10 @@
+debian-timeline (9) UNRELEASED; urgency=low
+
+  * Added:
+    - "Debian Bug #560000 reported by Mika Tiainen"
+
+ -- Chris Lamb <lamby@debian.org>  Tue, 16 Feb 2010 09:27:14 +0000
+
 debian-timeline (8) unstable; urgency=low
 
   * Added:
