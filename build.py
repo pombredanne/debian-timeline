@@ -17,7 +17,8 @@ def main(dir):
 
     for filename in glob(os.path.join(dir, '*')):
         print >>sys.stderr, "Reading events from %s" % filename,
-        for para in deb822.Deb822.iter_paragraphs(file(filename)):
+        input = file(filename).read().decode('utf-8')
+        for para in deb822.Deb822.iter_paragraphs(input, use_apt_pkg=False):
             events.appendChild(create_event(doc, para))
             sys.stderr.write('.')
             num += 1

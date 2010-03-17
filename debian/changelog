@@ -1,5 +1,6 @@
 debian-timeline (9) UNRELEASED; urgency=low
 
+  * Fix FTBFS when run in non-UTF8 locale. (Closes: #574303)
   * Added:
     - "Debian Bug #560000 reported by Mika Tiainen"
     - "Debian Bug #570000 reported by Ron Murray"
