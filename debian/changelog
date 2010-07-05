@@ -9,6 +9,7 @@ debian-timeline (10) UNRELEASED; urgency=low
     - "Derivatives Front Desk"
     - "debian-policy 3.9.0.0"
     - "New source package formats available"
+    - "NM meeting"
 
  -- Chris Lamb <lamby@debian.org>  Mon, 05 Jul 2010 10:25:33 +0100
 
