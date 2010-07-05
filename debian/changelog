@@ -4,6 +4,7 @@ debian-timeline (10) UNRELEASED; urgency=low
     - "Archive snapshot service available"
     - "Stefano Zacchiroli elected as DPL"
     - "DPL 2010 elections"
+    - "Debian 4.0 ("etch") updated (r9)"
 
  -- Chris Lamb <lamby@debian.org>  Mon, 05 Jul 2010 10:25:33 +0100
 
