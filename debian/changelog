@@ -8,6 +8,7 @@ debian-timeline (10) UNRELEASED; urgency=low
     - "Debian 5.0 ("lenny") updated (r5)"
     - "Derivatives Front Desk"
     - "debian-policy 3.9.0.0"
+    - "New source package formats available"
 
  -- Chris Lamb <lamby@debian.org>  Mon, 05 Jul 2010 10:25:33 +0100
 
