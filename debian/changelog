@@ -24,6 +24,7 @@ debian-timeline (10) UNRELEASED; urgency=low
   * Update "debian_bundle" import to just "debian".
   * iter_paragraphs needs to take an iterable of strings. (Closes: #588062)
   * .encode('utf-8') when outputting over the terminal.
+  * Don't default to a date so far in the past.
 
  -- Chris Lamb <lamby@debian.org>  Mon, 05 Jul 2010 10:25:33 +0100
 
