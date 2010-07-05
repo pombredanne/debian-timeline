@@ -6,6 +6,7 @@ debian-timeline (10) UNRELEASED; urgency=low
     - "DPL 2010 elections"
     - "Debian 4.0 ("etch") updated (r9)"
     - "Debian 5.0 ("lenny") updated (r5)"
+    - "Derivatives Front Desk"
 
  -- Chris Lamb <lamby@debian.org>  Mon, 05 Jul 2010 10:25:33 +0100
 
