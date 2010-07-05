@@ -29,7 +29,7 @@ def main(dir):
     print >>sys.stderr, "Writing %s events" % num
 
     print '<!-- Generated from %s/* - do not edit -->' % dir
-    print events.toprettyxml(indent='  ')
+    print events.toprettyxml(indent='  ').encode('utf-8')
 
 def create_event(doc, para):
     entry = doc.createElement('entry')
