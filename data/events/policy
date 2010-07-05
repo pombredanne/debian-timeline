@@ -45,3 +45,7 @@ Source: http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/
 Title: debian-policy 3.8.0.0
 Date: Jun 4 2008
 Source: http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog
+
+Title: debian-policy 3.9.0.0
+Date: Jun 27 2010
+Source: http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog
