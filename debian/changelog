@@ -37,6 +37,7 @@ debian-timeline (10) UNRELEASED; urgency=low
   * Update "debian_bundle" import to just "debian".
   * .encode('utf-8') when outputting over the terminal.
   * Don't default to a date so far in the past.
+  * Move dpkg v3 (quilt) source package format.
 
  -- Chris Lamb <lamby@debian.org>  Mon, 05 Jul 2010 10:25:33 +0100
 
