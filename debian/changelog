@@ -21,6 +21,7 @@ debian-timeline (10) UNRELEASED; urgency=low
     - "etch release archived"
     - "Parallel booting enabled by default"
     - "Mini DebConf in Berlin, Germany"
+  * Update "debian_bundle" import to just "debian".
 
  -- Chris Lamb <lamby@debian.org>  Mon, 05 Jul 2010 10:25:33 +0100
 

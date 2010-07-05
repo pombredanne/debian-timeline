@@ -5,7 +5,7 @@ import sys
 import shutil
 
 from glob import glob
-from debian_bundle import deb822
+from debian import deb822
 from xml.dom.minidom import Document
 
 def main(dir):
