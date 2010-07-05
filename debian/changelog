@@ -1,3 +1,10 @@
+debian-timeline (10) UNRELEASED; urgency=low
+
+  * Added:
+    - "Archive snapshot service available"
+
+ -- Chris Lamb <lamby@debian.org>  Mon, 05 Jul 2010 10:25:33 +0100
+
 debian-timeline (9) unstable; urgency=low
 
   * Fix FTBFS when run in non-UTF8 locale. (Closes: #574303)
