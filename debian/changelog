@@ -1,5 +1,18 @@
 debian-timeline (10) UNRELEASED; urgency=low
 
+  * iter_paragraphs needs to take an iterable of strings. This fixes an issue
+    where we weren't actually including any event data in the Debian package.
+    However, I think the cited bug may be about encodings or excessive
+    cross-domain security for file:// protocols.
+    
+    If this is the case, we can do nothing in this package, except point out
+    that this is not really supported in all browsers - please configure a
+    "real" web server or use:
+    
+      $ cd /usr/share/debian-timeline && python -m SimpleHTTPServer
+    
+    And then visit http://localhost:8000/. (Closes: #588062)
+    
   * Added:
     - "Archive snapshot service available"
     - "Stefano Zacchiroli elected as DPL"
@@ -22,7 +35,6 @@ debian-timeline (10) UNRELEASED; urgency=low
     - "Parallel booting enabled by default"
     - "Mini DebConf in Berlin, Germany"
   * Update "debian_bundle" import to just "debian".
-  * iter_paragraphs needs to take an iterable of strings. (Closes: #588062)
   * .encode('utf-8') when outputting over the terminal.
   * Don't default to a date so far in the past.
 
