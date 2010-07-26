@@ -1,3 +1,10 @@
+debian-timeline (11) UNRELEASED; urgency=low
+
+  * Fix FTBFS by setting source format manually to '3.0 (native)'.
+    (Closes: #590414)
+
+ -- Chris Lamb <lamby@debian.org>  Mon, 26 Jul 2010 22:09:51 +0100
+
 debian-timeline (10) unstable; urgency=low
 
   * iter_paragraphs needs to take an iterable of strings. This fixes an issue
@@ -52,6 +59,8 @@ debian-timeline (9) unstable; urgency=low
 
 debian-timeline (8) unstable; urgency=low
 
+  * Fix FTBFS by setting source format manually to '3.0 (native)'.
+    (Closes: #590414)
   * Added:
     - "Debian Bug #550000 reported by Erik de Castro Lopo"
     - "Debian 5.0 ("lenny") updated (r4)"
