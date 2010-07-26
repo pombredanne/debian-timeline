@@ -1,4 +1,4 @@
-debian-timeline (11) UNRELEASED; urgency=low
+debian-timeline (11) unstable; urgency=low
 
   * Fix FTBFS by setting source format manually to '3.0 (native)'.
     (Closes: #590414)
@@ -6,7 +6,7 @@ debian-timeline (11) UNRELEASED; urgency=low
     - "Debian Bug #580000 reported by Salvo Tomaselli"
     - "Debian Bug #590000 reported by Joe Dalton"
 
- -- Chris Lamb <lamby@debian.org>  Mon, 26 Jul 2010 22:09:51 +0100
+ -- Chris Lamb <lamby@debian.org>  Mon, 26 Jul 2010 22:16:02 +0100
 
 debian-timeline (10) unstable; urgency=low
 
