@@ -1,9 +1,9 @@
-debian-timeline (12) UNRELEASED; urgency=low
+debian-timeline (12) unstable; urgency=low
 
   * Add Debian Live entries. (Closes: #590917)
   * Bump Standards-Version to 3.9.1.
 
- -- Chris Lamb <lamby@debian.org>  Fri, 30 Jul 2010 11:51:15 -0400
+ -- Chris Lamb <lamby@debian.org>  Fri, 30 Jul 2010 11:53:05 -0400
 
 debian-timeline (11) unstable; urgency=low
 
