@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Chris Lamb <lamby@debian.org>
 Build-Depends: debhelper (>= 7.0.50~)
 Build-Depends-Indep: python, python-debian
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Homepage: http://timeline.debian.net/
 Vcs-Browser: http://git.chris-lamb.co.uk/?p=debian/debian-timeline.git
 Vcs-Git: git://git.chris-lamb.co.uk/debian/debian-timeline.git
