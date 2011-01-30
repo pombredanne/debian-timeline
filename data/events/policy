@@ -49,3 +49,7 @@ Source: http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/
 Title: debian-policy 3.9.0.0
 Date: Jun 27 2010
 Source: http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog
+
+Title: debian-policy 3.9.1.0
+Date: Jul 25 2010
+Source: http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog
