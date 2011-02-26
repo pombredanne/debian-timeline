@@ -1,7 +1,15 @@
 debian-timeline (13) UNRELEASED; urgency=low
 
-  * Added Squeeze release.
-  * Added Squeeze "era".
+  * Added squeeze release.
+  * Added squeeze "era".
+  * Apply contributions from Paul Wise <pabs@debian.org>:
+    - lenny r{6,7,8} point releases.
+    - Debian 6.0 ("squeeze") frozen.
+    - Debian welcomes non-packaging contributors.
+    - Frans Pop passed away.
+    - Add a URL for passing away of Joel 'Espy' Klecker.
+    - Debian Policy 3.9.1.
+    - Bugs #600000 and #610000 reported.
 
  -- Chris Lamb <lamby@debian.org>  Sat, 26 Feb 2011 18:54:34 +0000
 
