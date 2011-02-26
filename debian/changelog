@@ -1,6 +1,7 @@
 debian-timeline (13) UNRELEASED; urgency=low
 
   * Added Squeeze release.
+  * Added Squeeze "era".
 
  -- Chris Lamb <lamby@debian.org>  Sat, 26 Feb 2011 18:54:34 +0000
 
