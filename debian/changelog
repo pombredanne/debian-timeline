@@ -10,6 +10,7 @@ debian-timeline (13) UNRELEASED; urgency=low
     - Add a URL for passing away of Joel 'Espy' Klecker.
     - Debian Policy 3.9.1.
     - Bugs #600000 and #610000 reported.
+  * Added FOSDEM 2011.
 
  -- Chris Lamb <lamby@debian.org>  Sat, 26 Feb 2011 18:54:34 +0000
 
