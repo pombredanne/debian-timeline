@@ -1,3 +1,9 @@
+debian-timeline (13) UNRELEASED; urgency=low
+
+  * Added Squeeze release.
+
+ -- Chris Lamb <lamby@debian.org>  Sat, 26 Feb 2011 18:54:34 +0000
+
 debian-timeline (12) unstable; urgency=low
 
   * Add Debian Live entries. (Closes: #590917)
