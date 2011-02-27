@@ -1,3 +1,9 @@
+debian-timeline (15) UNRELEASED; urgency=low
+
+  * Update Vcs-{Git,Browser}.
+
+ -- Chris Lamb <lamby@debian.org>  Sun, 27 Feb 2011 03:34:21 +0000
+
 debian-timeline (14) unstable; urgency=low
 
   * Fix embarassing ``5.0 ("squeeze")'' typo. Thanks to Paul Wise (pabs).
