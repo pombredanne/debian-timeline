@@ -1,6 +1,7 @@
 debian-timeline (15) UNRELEASED; urgency=low
 
   * Update Vcs-{Git,Browser}.
+  * Add squeeze r1 point release.
 
  -- Chris Lamb <lamby@debian.org>  Sun, 27 Feb 2011 03:34:21 +0000
 
