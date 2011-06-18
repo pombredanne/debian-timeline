@@ -1,3 +1,9 @@
+debian-timeline (16) UNRELEASED; urgency=low
+
+  * Bump Standards-Version to 3.9.2.
+
+ -- Chris Lamb <lamby@debian.org>  Sat, 18 Jun 2011 14:48:30 +0100
+
 debian-timeline (15) unstable; urgency=low
 
   * Update Vcs-{Git,Browser}.
