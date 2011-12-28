@@ -162,6 +162,11 @@ Start-Date: Aug 1 2010
 End-Date: Aug 7 2010
 Source: http://debconf10.debconf.org/
 
+Title: DSA meeting
+Start-Date: Sep 3 2010
+End-Date: Sep 5 2010
+Source: http://lists.debian.org/debian-project/2010/09/msg00027.html
+
 Title: FOSDEM 2011
 Start-Date: Feb 5 2011
 End-Date: Feb 6 2011
