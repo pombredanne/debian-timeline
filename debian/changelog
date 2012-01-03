@@ -1,4 +1,4 @@
-debian-timeline (16) UNRELEASED; urgency=low
+debian-timeline (16) unstable; urgency=low
 
   * Bump Standards-Version to 3.9.2.
   * Add events from Paul Wise <pabs@debian.org>:
@@ -11,7 +11,7 @@ debian-timeline (16) UNRELEASED; urgency=low
   * Add event from Martin Zobel-Helas <zobel@debian.org>:
     - add DSA meeting 2010 in Munich (Closes: #653447)
 
- -- Chris Lamb <lamby@debian.org>  Sat, 18 Jun 2011 14:48:30 +0100
+ -- Chris Lamb <lamby@debian.org>  Tue, 03 Jan 2012 13:12:28 +0000
 
 debian-timeline (15) unstable; urgency=low
 
