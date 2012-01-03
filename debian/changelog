@@ -1,6 +1,13 @@
 debian-timeline (16) UNRELEASED; urgency=low
 
   * Bump Standards-Version to 3.9.2.
+  * Add events from Paul Wise <pabs@debian.org>:
+    - Add DebConf11 and DebCamp11
+    - A new version of debian-policy was released
+    - armhf and s390x architectures added
+    - Fix the squeeze release era URL
+    - Many more bugs were filed
+    - Stefano was re-elected as DPL
 
  -- Chris Lamb <lamby@debian.org>  Sat, 18 Jun 2011 14:48:30 +0100
 
