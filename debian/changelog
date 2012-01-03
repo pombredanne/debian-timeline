@@ -8,6 +8,8 @@ debian-timeline (16) UNRELEASED; urgency=low
     - Fix the squeeze release era URL
     - Many more bugs were filed
     - Stefano was re-elected as DPL
+  * Add event from Martin Zobel-Helas <zobel@debian.org>:
+    - add DSA meeting 2010 in Munich (Closes: #653447)
 
  -- Chris Lamb <lamby@debian.org>  Sat, 18 Jun 2011 14:48:30 +0100
 
