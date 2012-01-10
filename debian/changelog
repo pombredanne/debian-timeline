@@ -1,10 +1,10 @@
-debian-timeline (17) UNRELEASED; urgency=low
+debian-timeline (17) unstable; urgency=low
 
   * Add:
     - "Anthony Towns steps down as Release Manager" (Closes: #655147)
     - "Resolution to declassify debian-private passed" (Closes: #655149)
 
- -- Chris Lamb <lamby@debian.org>  Tue, 10 Jan 2012 17:13:15 +0000
+ -- Chris Lamb <lamby@debian.org>  Tue, 10 Jan 2012 17:19:25 +0000
 
 debian-timeline (16) unstable; urgency=low
 
