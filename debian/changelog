@@ -1,3 +1,10 @@
+debian-timeline (18) UNRELEASED; urgency=low
+
+  * Debcamp11 happened in 2011, not 2010. Thanks to Anders Jackson
+    <anders.jackson@hig.se>.
+
+ -- Chris Lamb <lamby@debian.org>  Fri, 13 Jan 2012 14:53:25 +0000
+
 debian-timeline (17) unstable; urgency=low
 
   * Add:
