@@ -4,6 +4,7 @@ debian-timeline (18) UNRELEASED; urgency=low
     <anders.jackson@hig.se>.
   * Add __history__.html for simile.
   * Add BSP entries from Paul Wise.
+  * Move to entirely debian/-based build process.
 
  -- Chris Lamb <lamby@debian.org>  Fri, 13 Jan 2012 14:53:25 +0000
 
