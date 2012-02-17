@@ -1,0 +1,8 @@
+#!/bin/sh
+
+#DEBHELPER#
+
+set -e
+
+ln -sf /usr/share/debian-timeline/config/nginx /etc/nginx/sites-enabled/debian-timeline
+invoke-rc.d nginx reload

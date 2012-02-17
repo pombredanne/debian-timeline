@@ -1,0 +1,7 @@
+server {
+	server_name timeline.debian.net;
+
+	location / {
+		root /usr/share/debian-timeline;
+	}
+}
