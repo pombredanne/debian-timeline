@@ -1,3 +1,21 @@
+debian-timeline (18) UNRELEASED; urgency=low
+
+  * Debcamp11 happened in 2011, not 2010. Thanks to Anders Jackson
+    <anders.jackson@hig.se>.
+  * Add __history__.html for simile.
+  * Add BSP entries from Paul Wise.
+  * Move to entirely debian/-based build process.
+
+ -- Chris Lamb <lamby@debian.org>  Fri, 13 Jan 2012 14:53:25 +0000
+
+debian-timeline (17) unstable; urgency=low
+
+  * Add:
+    - "Anthony Towns steps down as Release Manager" (Closes: #655147)
+    - "Resolution to declassify debian-private passed" (Closes: #655149)
+
+ -- Chris Lamb <lamby@debian.org>  Tue, 10 Jan 2012 17:19:25 +0000
+
 debian-timeline (16) unstable; urgency=low
 
   * Bump Standards-Version to 3.9.2.

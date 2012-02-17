@@ -1,7 +1,14 @@
 #!/usr/bin/make -f
 
+INPUT	:= $(wildcard data/*)
+OUTPUT	:= $(addsuffix .xml,$(subst data/,xml/,$(basename $(INPUT))))
+
 %:
 	dh $@
 
-override_dh_auto_install:
-	DESTDIR=$(DESTDIR)/usr/share/debian-timeline dh_auto_install
+override_dh_auto_build: $(OUTPUT)
+	dh_auto_build
+
+xml/%.xml: data/%
+	@mkdir -p xml
+	./build.py $< >$@
