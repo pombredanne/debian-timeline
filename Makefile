@@ -23,7 +23,7 @@ clean:
 
 install: build
 	install -d $(TARGET)
-	install -m644 -t $(TARGET) index.html 
+	install -m644 -t $(TARGET) index.html __history__.html
 	set -e; for DIR in media xml; do \
 		install -d $(TARGET)/$$DIR; \
 		install -m644 -t $(TARGET)/$$DIR `find $$DIR -mindepth 1 -type f`; \
