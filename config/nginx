@@ -1,5 +1,6 @@
 server {
 	server_name timeline.debian.net;
+	listen 89.16.161.223:80;
 
 	location / {
 		root /usr/share/debian-timeline;
