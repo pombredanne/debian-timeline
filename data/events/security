@@ -25,3 +25,11 @@ Source: http://www.debian.org/security/2008/dsa-1571
 Title: Kaminsky's DNS cache poisoning vulnerability publicly announced
 Date: Jul 08 2008
 Source: http://www.debian.org/security/2008/dsa-1603
+
+Title: Security dropped for Debian 4.0 ("etch")
+Date: Jan 21 2010
+Source: http://lists.debian.org/debian-announce/2010/msg00000.html
+
+Title: Security dropped for Debian 5.0 ("lenny")
+Date: Feb 9 2012
+Source: http://lists.debian.org/debian-announce/2012/msg00001.html
