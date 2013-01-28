@@ -82,6 +82,21 @@ Start-Date: Apr 04 2008
 End-Date: Apr 06 2008
 Source: http://www.chiark.greenend.org.uk/pipermail/debian-uk/2008-March/011138.html
 
+Title: Bug squashing party (Cambridge, United Kingdom)
+Start-Date: Jan 03 2009
+End-Date: Jan 04 2009
+Source: http://wiki.debian.org/BSP/2013/01/gb/Cambridge
+
+Title: Bug squashing party (LiMux, Munich, Germany)
+Start-Date: Nov 27 2010
+End-Date: Nov 29 2010
+Source: http://wiki.debian.org/BSP/2009/11/de/Munich
+
+Title: Bug squashing party (Cambridge, United Kingdom)
+Start-Date: Nov 27 2010
+End-Date: Nov 29 2010
+Source: http://wiki.debian.org/BSP/2013/11/gb/Cambridge
+
 Title: Bug squashing party (credativ, Mönchengladbach, Germany)
 Start-Date: Jan 22 2010
 End-Date: Jan 24 2010
@@ -90,6 +105,19 @@ Source: http://lists.debian.org/debian-devel-announce/2009/12/msg00000.html
 Title: Bug squashing party (University of Tokyo, Tokyo, Japan)
 Date: Jan 23 2010
 Source: http://lists.debian.org/debian-devel-announce/2010/01/msg00003.html
+
+Title: Bug squashing party (SIPB, Cambridge, United States)
+Date: Aug 21 2011
+Source: http://www.debian.org/events/2011/0821-debub-bsp
+
+Title: Bug squashing party (Pengutronix, Hildesheim, Germany)
+Start-Date: Dec 02 2011
+End-Date: Dec 04 2011
+Source: http://lists.debian.org/debian-devel-announce/2011/10/msg00003.html
+
+Title: Bug squashing party (PuppetLabs, Portland, United States)
+Date: Dec 04 2011
+Source: http://lists.debian.org/debian-devel-announce/2011/11/msg00003.html
 
 Title: Bug squashing party (IRILL, Paris, France)
 Start-Date: Feb 17 2012
