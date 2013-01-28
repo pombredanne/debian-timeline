@@ -1,2 +1,6 @@
 xml
 media/timeline_*
+debian/debian-timeline.debhelper.log
+debian/debian-timeline.substvars
+debian/debian-timeline/
+debian/files
