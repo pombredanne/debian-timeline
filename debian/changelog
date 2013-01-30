@@ -1,8 +1,8 @@
-debian-timeline (20) UNRELEASED; urgency=low
+debian-timeline (20) unstable; urgency=low
 
   * Add another lot of events from Paul Wise (pabs).
 
- -- Chris Lamb <lamby@debian.org>  Wed, 30 Jan 2013 00:39:30 +0000
+ -- Chris Lamb <lamby@debian.org>  Wed, 30 Jan 2013 00:39:44 +0000
 
 debian-timeline (19) unstable; urgency=low
 
