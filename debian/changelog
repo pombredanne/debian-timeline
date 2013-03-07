@@ -1,6 +1,11 @@
 debian-timeline (21) UNRELEASED; urgency=low
 
-  * Add ``Debian 6.0 ("squeeze") updated (r7)'' from Paul Wise (pabs).
+  * Updates from Paul Wise (pabs):
+    - Add ``Debian 6.0 ("squeeze") updated (r7)''
+    - Add some missing DPL elections
+    - Fix the URLs for a couple of DPL elections
+    - Correct the start dates for the early DPL votes; include the nomination
+      period.
 
  -- Chris Lamb <lamby@debian.org>  Mon, 25 Feb 2013 18:10:04 +0000
 
