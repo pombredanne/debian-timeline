@@ -4,7 +4,7 @@ Source: http://lists.debian.org/debian-user/1997/04/msg00786.html
 
 Title: debhelper 0.2 in unstable
 Date: Sep 23 1997
-Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+Source: http://ftp-master.metadata.debian.org/changelogs/main/d/debhelper/unstable_changelog
 
 Title: Deity renamed to "apt"
 Date: Mar 23 1998
@@ -16,7 +16,7 @@ Source: http://lists.debian.org/debian-devel/1998/10/msg00570.html
 
 Title: debhelper 1.0
 Date: Aug 08 1998
-Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+Source: http://ftp-master.metadata.debian.org/changelogs/main/d/debhelper/unstable_changelog
 
 Title: exim is the new default MTA for Debian stable
 Date: Mar 09 1999
@@ -24,7 +24,7 @@ Source: http://www.oss-watch.ac.uk/resources/cs-exim.xml
 
 Title: debhelper 3.0
 Date: Feb 08 2001
-Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+Source: http://ftp-master.metadata.debian.org/changelogs/main/d/debhelper/unstable_changelog
 
 Title: dpkg 1.9.0 released
 Date: Apr 27 2001
@@ -32,7 +32,7 @@ Source: http://lists.debian.org/debian-devel-announce/2001/04/msg00016.html
 
 Title: debhelper 4.0
 Date: Apr 11 2002
-Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+Source: http://ftp-master.metadata.debian.org/changelogs/main/d/debhelper/unstable_changelog
 
 Title: gcc 3.2 default compiler in unstable
 Date: Jan 07 2003
@@ -56,7 +56,7 @@ Source: http://lists.debian.org/debian-devel-announce/2005/08/msg00011.html
 
 Title: debhelper 5.0
 Date: Nov 01 2005
-Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+Source: http://ftp-master.metadata.debian.org/changelogs/main/d/debhelper/unstable_changelog
 
 Title: debmake deprecated
 Date: Mar 22 2006
@@ -79,15 +79,15 @@ Source: http://lists.debian.org/debian-devel-announce/2007/08/msg00000.html
 
 Title: debhelper 6.0
 Date: Jan 08 2008
-Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+Source: http://ftp-master.metadata.debian.org/changelogs/main/d/debhelper/unstable_changelog
 
 Title: dpkg with triggers in unstable
 Date: Apr 08 2008
-Source: http://packages.debian.org/changelogs/pool/main/d/dpkg/current/changelog
+Source: http://ftp-master.metadata.debian.org/changelogs/main/d/dpkg/unstable_changelog
 
 Title: debhelper 7.0
 Date: Apr 24 2008
-Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+Source: http://ftp-master.metadata.debian.org/changelogs/main/d/debhelper/unstable_changelog
 
 Title: AGPL deemed suitable for main
 Date: Nov 28 2008

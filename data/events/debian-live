@@ -4,7 +4,7 @@ Source: http://blog.daniel-baumann.ch/2006/02/14#20060214_debian-live-initiative
 
 Title: live-helper 1.0 uploaded to sid
 Date: Aug 24 2008
-Source: http://packages.debian.org/changelogs/pool/main/l/live-helper/current/changelog#versionversion1.0.0-1
+Source: http://ftp-master.metadata.debian.org/changelogs/main/l/live-helper/unstable_changelog#versionversion1.0.0-1
 
 Title: Debian Live now an unofficial subproject
 Date: Aug 28 2008
