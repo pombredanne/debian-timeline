@@ -1,4 +1,4 @@
-debian-timeline (21) UNRELEASED; urgency=low
+debian-timeline (21) unstable; urgency=low
 
   * Updates from Paul Wise (pabs):
     - Add ``Debian 6.0 ("squeeze") updated (r7)''
@@ -8,7 +8,7 @@ debian-timeline (21) UNRELEASED; urgency=low
       period.
   * Apply lots of updates from Paul Wise (Closes: #706513)
 
- -- Chris Lamb <lamby@debian.org>  Mon, 25 Feb 2013 18:10:04 +0000
+ -- Chris Lamb <lamby@debian.org>  Thu, 02 May 2013 22:59:39 +0100
 
 debian-timeline (20) unstable; urgency=low
 
