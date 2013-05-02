@@ -6,6 +6,7 @@ debian-timeline (21) UNRELEASED; urgency=low
     - Fix the URLs for a couple of DPL elections
     - Correct the start dates for the early DPL votes; include the nomination
       period.
+  * Apply lots of updates from Paul Wise (Closes: #706513)
 
  -- Chris Lamb <lamby@debian.org>  Mon, 25 Feb 2013 18:10:04 +0000
 
