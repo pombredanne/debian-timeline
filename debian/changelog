@@ -1,3 +1,9 @@
+debian-timeline (23) UNRELEASED; urgency=low
+
+  * Add a lot of events and corrections from from Paul Wise. (Closes: #710748)
+
+ -- Chris Lamb <lamby@debian.org>  Mon, 03 Jun 2013 12:20:17 +0100
+
 debian-timeline (22) unstable; urgency=low
 
   * Add wheezy release. Thanks to Paul Wise (Closes: #706793)
