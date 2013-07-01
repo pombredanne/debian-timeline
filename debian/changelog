@@ -1,11 +1,11 @@
-debian-timeline (24) UNRELEASED; urgency=low
+debian-timeline (24) unstable; urgency=low
 
   * Add events from Paul Wise (pabs):
     - First wheezy point release.
     - New look for Debian's websites
     - Debian wins two Linux New Media Awards.
 
- -- Chris Lamb <lamby@debian.org>  Mon, 01 Jul 2013 11:57:41 +0100
+ -- Chris Lamb <lamby@debian.org>  Mon, 01 Jul 2013 11:58:55 +0100
 
 debian-timeline (23) unstable; urgency=low
 
