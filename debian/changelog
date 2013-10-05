@@ -1,11 +1,11 @@
-debian-timeline (25) UNRELEASED; urgency=low
+debian-timeline (25) unstable; urgency=low
 
   * Add events from Paul Wise (pabs):
     - source browser service available
     - Bug #720000 was reported
     - Add the recent Oslo BSP.
 
- -- Chris Lamb <lamby@debian.org>  Wed, 03 Jul 2013 19:52:36 +0100
+ -- Chris Lamb <lamby@debian.org>  Sat, 05 Oct 2013 20:51:17 +0100
 
 debian-timeline (24) unstable; urgency=low
 
