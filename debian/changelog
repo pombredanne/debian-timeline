@@ -1,4 +1,4 @@
-debian-timeline (26) UNRELEASED; urgency=low
+debian-timeline (26) unstable; urgency=low
 
   * Add new events from Paul Wise (pabs):
     - New point releases
@@ -8,7 +8,7 @@ debian-timeline (26) UNRELEASED; urgency=low
     - s390 retired
     - Mini-Debconfs
 
- -- Chris Lamb <lamby@debian.org>  Mon, 04 Nov 2013 10:44:52 +0000
+ -- Chris Lamb <lamby@debian.org>  Mon, 04 Nov 2013 10:46:20 +0000
 
 debian-timeline (25) unstable; urgency=low
 
