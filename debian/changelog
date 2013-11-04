@@ -1,3 +1,15 @@
+debian-timeline (26) UNRELEASED; urgency=low
+
+  * Add new events from Paul Wise (pabs):
+    - New point releases
+    - Jessie freeze date
+    - BSPs
+    - Policy 3.9.5.0
+    - s390 retired
+    - Mini-Debconfs
+
+ -- Chris Lamb <lamby@debian.org>  Mon, 04 Nov 2013 10:44:52 +0000
+
 debian-timeline (25) unstable; urgency=low
 
   * Add events from Paul Wise (pabs):
