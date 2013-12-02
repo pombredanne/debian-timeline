@@ -2,6 +2,7 @@ debian-timeline (27) UNRELEASED; urgency=low
 
   * Add bootstrap service. Thanks Pabs :)
   * Add "Debian Bug #730000 reported".
+  * "Add Paris mini-DebConf announced".
 
  -- Chris Lamb <lamby@debian.org>  Mon, 11 Nov 2013 11:54:52 +0000
 
